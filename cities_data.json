@@ -1,0 +1,5102 @@
+[
+    {
+        "miasto": "Warszawa",
+        "lat": 52.2333742,
+        "lon": 21.0711489
+    },
+    {
+        "miasto": "Kraków",
+        "lat": 50.0469432,
+        "lon": 19.9971534
+    },
+    {
+        "miasto": "Wrocław",
+        "lat": 51.1263106,
+        "lon": 16.9781963
+    },
+    {
+        "miasto": "Łódź",
+        "lat": 51.7728245,
+        "lon": 19.4784857
+    },
+    {
+        "miasto": "Poznań",
+        "lat": 52.4006632,
+        "lon": 16.9197326
+    },
+    {
+        "miasto": "Gdańsk",
+        "lat": 54.4288032,
+        "lon": 18.798327
+    },
+    {
+        "miasto": "Szczecin",
+        "lat": 53.4296809,
+        "lon": 14.5929127
+    },
+    {
+        "miasto": "Lublin",
+        "lat": 51.2181945,
+        "lon": 22.5546776
+    },
+    {
+        "miasto": "Bydgoszcz",
+        "lat": 53.1297127,
+        "lon": 18.0294488
+    },
+    {
+        "miasto": "Białystok",
+        "lat": 53.127505,
+        "lon": 23.1470509
+    },
+    {
+        "miasto": "Katowice",
+        "lat": 50.2137315,
+        "lon": 19.0058848
+    },
+    {
+        "miasto": "Gdynia",
+        "lat": 54.5164982,
+        "lon": 18.5402738
+    },
+    {
+        "miasto": "Częstochowa",
+        "lat": 50.8089997,
+        "lon": 19.1244089
+    },
+    {
+        "miasto": "Rzeszów",
+        "lat": 50.0374531,
+        "lon": 22.0047174
+    },
+    {
+        "miasto": "Radom",
+        "lat": 51.4022557,
+        "lon": 21.1541546
+    },
+    {
+        "miasto": "Toruń",
+        "lat": 53.0102721,
+        "lon": 18.6048094
+    },
+    {
+        "miasto": "Sosnowiec",
+        "lat": 50.2712401,
+        "lon": 19.2155628
+    },
+    {
+        "miasto": "Kielce",
+        "lat": 50.8719903,
+        "lon": 20.6310488
+    },
+    {
+        "miasto": "Gliwice",
+        "lat": 50.294113,
+        "lon": 18.6657306
+    },
+    {
+        "miasto": "Olsztyn",
+        "lat": 53.776644,
+        "lon": 20.4777531
+    },
+    {
+        "miasto": "Bielsko-Biała",
+        "lat": 49.8120785,
+        "lon": 19.0291988
+    },
+    {
+        "miasto": "Zabrze",
+        "lat": 50.3142806,
+        "lon": 18.7815763
+    },
+    {
+        "miasto": "Bytom",
+        "lat": 50.3470387,
+        "lon": 18.9231857
+    },
+    {
+        "miasto": "Zielona Góra",
+        "lat": 51.9275736,
+        "lon": 15.5490421
+    },
+    {
+        "miasto": "Rybnik",
+        "lat": 50.1105691,
+        "lon": 18.5531874
+    },
+    {
+        "miasto": "Ruda Śląska",
+        "lat": 50.2698658,
+        "lon": 18.8642588
+    },
+    {
+        "miasto": "Opole",
+        "lat": 50.6668184,
+        "lon": 17.9236408
+    },
+    {
+        "miasto": "Tychy",
+        "lat": 50.1264981,
+        "lon": 19.0067846
+    },
+    {
+        "miasto": "Gorzów Wielkopolski",
+        "lat": 52.7309926,
+        "lon": 15.2400451
+    },
+    {
+        "miasto": "Dąbrowa Górnicza",
+        "lat": 50.3308692,
+        "lon": 19.2078918
+    },
+    {
+        "miasto": "Elbląg",
+        "lat": 54.1988997,
+        "lon": 19.4410857
+    },
+    {
+        "miasto": "Płock",
+        "lat": 52.5353471,
+        "lon": 19.7136301
+    },
+    {
+        "miasto": "Koszalin",
+        "lat": 54.2071799,
+        "lon": 16.2175411
+    },
+    {
+        "miasto": "Tarnów",
+        "lat": 50.0259883,
+        "lon": 20.9640584
+    },
+    {
+        "miasto": "Włocławek",
+        "lat": 52.6655636,
+        "lon": 19.0961297
+    },
+    {
+        "miasto": "Chorzów",
+        "lat": 50.2884726,
+        "lon": 18.9703798
+    },
+    {
+        "miasto": "Wałbrzych",
+        "lat": 50.7659054,
+        "lon": 16.2825424
+    },
+    {
+        "miasto": "Kalisz",
+        "lat": 51.7624752,
+        "lon": 18.0895358
+    },
+    {
+        "miasto": "Legnica",
+        "lat": 51.2081617,
+        "lon": 16.1603187
+    },
+    {
+        "miasto": "Grudziądz",
+        "lat": 53.4725119,
+        "lon": 18.7618937
+    },
+    {
+        "miasto": "Jaworzno",
+        "lat": 50.203439,
+        "lon": 19.2721559
+    },
+    {
+        "miasto": "Słupsk",
+        "lat": 54.463577,
+        "lon": 17.020948
+    },
+    {
+        "miasto": "Jastrzębie-Zdrój",
+        "lat": 49.9519085,
+        "lon": 18.6023614
+    },
+    {
+        "miasto": "Nowy Sącz",
+        "lat": 49.6249173,
+        "lon": 20.691346
+    },
+    {
+        "miasto": "Siedlce",
+        "lat": 52.1615938,
+        "lon": 22.2812533
+    },
+    {
+        "miasto": "Jelenia Góra",
+        "lat": 50.8501049,
+        "lon": 15.6537492
+    },
+    {
+        "miasto": "Mysłowice",
+        "lat": 50.2096211,
+        "lon": 19.132166
+    },
+    {
+        "miasto": "Piła",
+        "lat": 53.1347194,
+        "lon": 16.7527254
+    },
+    {
+        "miasto": "Ostrów Wielkopolski",
+        "lat": 51.6495023,
+        "lon": 17.8167085
+    },
+    {
+        "miasto": "Suwałki",
+        "lat": 54.0990636,
+        "lon": 22.9279363
+    },
+    {
+        "miasto": "Lubin",
+        "lat": 51.3996783,
+        "lon": 16.1993379
+    },
+    {
+        "miasto": "Inowrocław",
+        "lat": 52.7814643,
+        "lon": 18.2463086
+    },
+    {
+        "miasto": "Konin",
+        "lat": 52.2301933,
+        "lon": 18.2521112
+    },
+    {
+        "miasto": "Stargard",
+        "lat": 53.3089775,
+        "lon": 15.0316459
+    },
+    {
+        "miasto": "Piotrków Trybunalski",
+        "lat": 51.4082625,
+        "lon": 19.696167
+    },
+    {
+        "miasto": "Pruszków",
+        "lat": 52.171959,
+        "lon": 20.8029827
+    },
+    {
+        "miasto": "Siemianowice Śląskie",
+        "lat": 50.3121356,
+        "lon": 19.0177437
+    },
+    {
+        "miasto": "Gniezno",
+        "lat": 52.5359736,
+        "lon": 17.595889
+    },
+    {
+        "miasto": "Żory",
+        "lat": 50.0388902,
+        "lon": 18.6806124
+    },
+    {
+        "miasto": "Głogów",
+        "lat": 51.6636791,
+        "lon": 16.0935567
+    },
+    {
+        "miasto": "Ostrowiec Świętokrzyski",
+        "lat": 50.9398768,
+        "lon": 21.38743
+    },
+    {
+        "miasto": "Tarnowskie Góry",
+        "lat": 50.4654128,
+        "lon": 18.8335884
+    },
+    {
+        "miasto": "Pabianice",
+        "lat": 51.6662312,
+        "lon": 19.3592547
+    },
+    {
+        "miasto": "Leszno",
+        "lat": 51.8436068,
+        "lon": 16.5804227
+    },
+    {
+        "miasto": "Łomża",
+        "lat": 53.1824307,
+        "lon": 22.0521838
+    },
+    {
+        "miasto": "Ełk",
+        "lat": 53.8239583,
+        "lon": 22.3619165
+    },
+    {
+        "miasto": "Zamość",
+        "lat": 50.7212452,
+        "lon": 23.2595799
+    },
+    {
+        "miasto": "Tomaszów Mazowiecki",
+        "lat": 51.5316918,
+        "lon": 20.0084195
+    },
+    {
+        "miasto": "Chełm",
+        "lat": 51.1355882,
+        "lon": 23.4939364
+    },
+    {
+        "miasto": "Mielec",
+        "lat": 50.2895407,
+        "lon": 21.4229453
+    },
+    {
+        "miasto": "Tczew",
+        "lat": 54.0869532,
+        "lon": 18.8000293
+    },
+    {
+        "miasto": "Przemyśl",
+        "lat": 49.7835552,
+        "lon": 22.7885113
+    },
+    {
+        "miasto": "Stalowa Wola",
+        "lat": 50.5653105,
+        "lon": 22.0644075
+    },
+    {
+        "miasto": "Biała Podlaska",
+        "lat": 52.0290318,
+        "lon": 23.1494095
+    },
+    {
+        "miasto": "Kędzierzyn-Koźle",
+        "lat": 50.345463,
+        "lon": 18.2447945
+    },
+    {
+        "miasto": "Będzin",
+        "lat": 50.3230785,
+        "lon": 19.1322201
+    },
+    {
+        "miasto": "Rumia",
+        "lat": 54.5700148,
+        "lon": 18.3969008
+    },
+    {
+        "miasto": "Zgierz",
+        "lat": 51.8560819,
+        "lon": 19.4052228
+    },
+    {
+        "miasto": "Legionowo",
+        "lat": 52.4048926,
+        "lon": 20.9331103
+    },
+    {
+        "miasto": "Świdnica",
+        "lat": 50.8424835,
+        "lon": 16.4870549
+    },
+    {
+        "miasto": "Bełchatów",
+        "lat": 51.3547046,
+        "lon": 19.3769199
+    },
+    {
+        "miasto": "Piaseczno",
+        "lat": 52.0747377,
+        "lon": 21.0270885
+    },
+    {
+        "miasto": "Piekary Śląskie",
+        "lat": 50.3757791,
+        "lon": 18.9379389
+    },
+    {
+        "miasto": "Racibórz",
+        "lat": 50.0917343,
+        "lon": 18.2196766
+    },
+    {
+        "miasto": "Ostrołęka",
+        "lat": 53.0843135,
+        "lon": 21.5668607
+    },
+    {
+        "miasto": "Marki",
+        "lat": 52.3363752,
+        "lon": 21.1207788
+    },
+    {
+        "miasto": "Zawiercie",
+        "lat": 50.4844179,
+        "lon": 19.4333887
+    },
+    {
+        "miasto": "Wejherowo",
+        "lat": 54.6026348,
+        "lon": 18.247934
+    },
+    {
+        "miasto": "Ząbki",
+        "lat": 52.2923335,
+        "lon": 21.1146999
+    },
+    {
+        "miasto": "Świętochłowice",
+        "lat": 50.2979616,
+        "lon": 18.9061863
+    },
+    {
+        "miasto": "Starogard Gdański",
+        "lat": 53.9671805,
+        "lon": 18.532113
+    },
+    {
+        "miasto": "Skierniewice",
+        "lat": 51.9580068,
+        "lon": 20.1448085
+    },
+    {
+        "miasto": "Wodzisław Śląski",
+        "lat": 50.0024107,
+        "lon": 18.4630383
+    },
+    {
+        "miasto": "Starachowice",
+        "lat": 51.0518865,
+        "lon": 21.0761377
+    },
+    {
+        "miasto": "Krosno",
+        "lat": 49.6889843,
+        "lon": 21.7534788
+    },
+    {
+        "miasto": "Otwock",
+        "lat": 52.1161661,
+        "lon": 21.293459
+    },
+    {
+        "miasto": "Puławy",
+        "lat": 51.4262598,
+        "lon": 21.9853014
+    },
+    {
+        "miasto": "Tarnobrzeg",
+        "lat": 50.5729327,
+        "lon": 21.6791667
+    },
+    {
+        "miasto": "Kołobrzeg",
+        "lat": 54.1759614,
+        "lon": 15.5764209
+    },
+    {
+        "miasto": "Dębica",
+        "lat": 50.0461164,
+        "lon": 21.4127615
+    },
+    {
+        "miasto": "Radomsko",
+        "lat": 51.0674769,
+        "lon": 19.4446109
+    },
+    {
+        "miasto": "Mikołów",
+        "lat": 50.1691812,
+        "lon": 18.9044238
+    },
+    {
+        "miasto": "Ciechanów",
+        "lat": 52.8819798,
+        "lon": 20.6191479
+    },
+    {
+        "miasto": "Skarżysko-Kamienna",
+        "lat": 51.1229657,
+        "lon": 20.8770091
+    },
+    {
+        "miasto": "Kutno",
+        "lat": 52.2222131,
+        "lon": 19.3874589
+    },
+    {
+        "miasto": "Nysa",
+        "lat": 50.4738029,
+        "lon": 17.3324733
+    },
+    {
+        "miasto": "Mińsk Mazowiecki",
+        "lat": 52.1812046,
+        "lon": 21.5587372
+    },
+    {
+        "miasto": "Świnoujście",
+        "lat": 53.8270328,
+        "lon": 14.3356892
+    },
+    {
+        "miasto": "Chojnice",
+        "lat": 53.6999165,
+        "lon": 17.5703461
+    },
+    {
+        "miasto": "Żyrardów",
+        "lat": 52.055532,
+        "lon": 20.4446435
+    },
+    {
+        "miasto": "Sieradz",
+        "lat": 51.6017529,
+        "lon": 18.7399015
+    },
+    {
+        "miasto": "Zduńska Wola",
+        "lat": 51.6028615,
+        "lon": 18.9333201
+    },
+    {
+        "miasto": "Szczecinek",
+        "lat": 53.702342,
+        "lon": 16.7071342
+    },
+    {
+        "miasto": "Bolesławiec",
+        "lat": 51.2621692,
+        "lon": 15.5550197
+    },
+    {
+        "miasto": "Kwidzyn",
+        "lat": 53.7204653,
+        "lon": 18.9374641
+    },
+    {
+        "miasto": "Świdnik",
+        "lat": 51.2164934,
+        "lon": 22.6909558
+    },
+    {
+        "miasto": "Malbork",
+        "lat": 54.0287383,
+        "lon": 19.0393964
+    },
+    {
+        "miasto": "Nowa Sól",
+        "lat": 51.8033431,
+        "lon": 15.7062381
+    },
+    {
+        "miasto": "Wołomin",
+        "lat": 52.3468689,
+        "lon": 21.2420179
+    },
+    {
+        "miasto": "Knurów",
+        "lat": 50.2216536,
+        "lon": 18.6706574
+    },
+    {
+        "miasto": "Oświęcim",
+        "lat": 50.0336707,
+        "lon": 19.2600798
+    },
+    {
+        "miasto": "Jarosław",
+        "lat": 50.0159029,
+        "lon": 22.6796573
+    },
+    {
+        "miasto": "Oleśnica",
+        "lat": 51.2102428,
+        "lon": 17.382947
+    },
+    {
+        "miasto": "Grodzisk Mazowiecki",
+        "lat": 52.1066223,
+        "lon": 20.6313441
+    },
+    {
+        "miasto": "Czechowice-Dziedzice",
+        "lat": 49.9112146,
+        "lon": 19.007564
+    },
+    {
+        "miasto": "Żary",
+        "lat": 51.6385162,
+        "lon": 15.1422487
+    },
+    {
+        "miasto": "Sanok",
+        "lat": 49.5589528,
+        "lon": 22.21176
+    },
+    {
+        "miasto": "Lębork",
+        "lat": 54.5333804,
+        "lon": 17.744783
+    },
+    {
+        "miasto": "Chrzanów",
+        "lat": 50.1411926,
+        "lon": 19.4028502
+    },
+    {
+        "miasto": "Sochaczew",
+        "lat": 52.2296562,
+        "lon": 20.2379379
+    },
+    {
+        "miasto": "Brzeg",
+        "lat": 50.8614882,
+        "lon": 17.470497
+    },
+    {
+        "miasto": "Oława",
+        "lat": 50.957093,
+        "lon": 17.2902698
+    },
+    {
+        "miasto": "Nowy Targ",
+        "lat": 49.4818229,
+        "lon": 20.030541
+    },
+    {
+        "miasto": "Luboń",
+        "lat": 52.3367462,
+        "lon": 16.8717831
+    },
+    {
+        "miasto": "Cieszyn",
+        "lat": 49.7557676,
+        "lon": 18.6562313
+    },
+    {
+        "miasto": "Jasło",
+        "lat": 49.7469627,
+        "lon": 21.493576
+    },
+    {
+        "miasto": "Pruszcz Gdański",
+        "lat": 54.2576476,
+        "lon": 18.650104
+    },
+    {
+        "miasto": "Iława",
+        "lat": 53.5976095,
+        "lon": 19.5612175
+    },
+    {
+        "miasto": "Olkusz",
+        "lat": 50.2788158,
+        "lon": 19.5596307
+    },
+    {
+        "miasto": "Września",
+        "lat": 52.3250694,
+        "lon": 17.5652282
+    },
+    {
+        "miasto": "Sopot",
+        "lat": 54.4430399,
+        "lon": 18.5613095
+    },
+    {
+        "miasto": "Ostróda",
+        "lat": 53.7028533,
+        "lon": 19.9623028
+    },
+    {
+        "miasto": "Kraśnik",
+        "lat": 50.9249236,
+        "lon": 22.229206
+    },
+    {
+        "miasto": "Mława",
+        "lat": 53.1116182,
+        "lon": 20.3831732
+    },
+    {
+        "miasto": "Dzierżoniów",
+        "lat": 50.7291725,
+        "lon": 16.6567531
+    },
+    {
+        "miasto": "Czeladź",
+        "lat": 50.3184581,
+        "lon": 19.0736572
+    },
+    {
+        "miasto": "Żywiec",
+        "lat": 49.6890338,
+        "lon": 19.20305
+    },
+    {
+        "miasto": "Police",
+        "lat": 53.5486435,
+        "lon": 14.5657399
+    },
+    {
+        "miasto": "Myszków",
+        "lat": 50.5736481,
+        "lon": 19.3219413
+    },
+    {
+        "miasto": "Augustów",
+        "lat": 53.8449595,
+        "lon": 23.0183546
+    },
+    {
+        "miasto": "Reda",
+        "lat": 54.6210145,
+        "lon": 18.3217089
+    },
+    {
+        "miasto": "Zgorzelec",
+        "lat": 51.1477005,
+        "lon": 15.0079028
+    },
+    {
+        "miasto": "Nowy Dwór Mazowiecki",
+        "lat": 52.4306508,
+        "lon": 20.7154712
+    },
+    {
+        "miasto": "Kobyłka",
+        "lat": 52.3399711,
+        "lon": 21.1905442
+    },
+    {
+        "miasto": "Bochnia",
+        "lat": 49.9746842,
+        "lon": 20.4253292
+    },
+    {
+        "miasto": "Brodnica",
+        "lat": 53.258092,
+        "lon": 19.3993626
+    },
+    {
+        "miasto": "Krotoszyn",
+        "lat": 51.695926,
+        "lon": 17.4374158
+    },
+    {
+        "miasto": "Swarzędz",
+        "lat": 52.4103728,
+        "lon": 17.0771038
+    },
+    {
+        "miasto": "Wieliczka",
+        "lat": 49.9823773,
+        "lon": 20.0602114
+    },
+    {
+        "miasto": "Bielawa",
+        "lat": 50.6841718,
+        "lon": 16.6118259
+    },
+    {
+        "miasto": "Śrem",
+        "lat": 52.0893322,
+        "lon": 17.0156809
+    },
+    {
+        "miasto": "Giżycko",
+        "lat": 54.040092,
+        "lon": 21.7713092
+    },
+    {
+        "miasto": "Łuków",
+        "lat": 51.93008,
+        "lon": 22.3790669
+    },
+    {
+        "miasto": "Czerwionka-Leszczyny",
+        "lat": 50.1449958,
+        "lon": 18.6531994
+    },
+    {
+        "miasto": "Jarocin",
+        "lat": 51.9739233,
+        "lon": 17.5011254
+    },
+    {
+        "miasto": "Wyszków",
+        "lat": 52.5928035,
+        "lon": 21.4584581
+    },
+    {
+        "miasto": "Łowicz",
+        "lat": 52.107683,
+        "lon": 19.9447873
+    },
+    {
+        "miasto": "Wągrowiec",
+        "lat": 52.8122065,
+        "lon": 17.2019135
+    },
+    {
+        "miasto": "Gorlice",
+        "lat": 49.6663323,
+        "lon": 21.1634843
+    },
+    {
+        "miasto": "Zakopane",
+        "lat": 49.2969114,
+        "lon": 19.9504753
+    },
+    {
+        "miasto": "Kętrzyn",
+        "lat": 54.0764176,
+        "lon": 21.3752627
+    },
+    {
+        "miasto": "Pszczyna",
+        "lat": 49.9778089,
+        "lon": 18.9423721
+    },
+    {
+        "miasto": "Świecie",
+        "lat": 53.4072518,
+        "lon": 18.4455253
+    },
+    {
+        "miasto": "Kłodzko",
+        "lat": 50.4337118,
+        "lon": 16.6422465
+    },
+    {
+        "miasto": "Biłgoraj",
+        "lat": 50.5424846,
+        "lon": 22.7209326
+    },
+    {
+        "miasto": "Środa Wielkopolska",
+        "lat": 52.2284266,
+        "lon": 17.277827
+    },
+    {
+        "miasto": "Turek",
+        "lat": 52.0162022,
+        "lon": 18.5114471
+    },
+    {
+        "miasto": "Skawina",
+        "lat": 49.9747508,
+        "lon": 19.8265702
+    },
+    {
+        "miasto": "Bielsk Podlaski",
+        "lat": 52.764915,
+        "lon": 23.1882107
+    },
+    {
+        "miasto": "Wałcz",
+        "lat": 53.269745,
+        "lon": 16.4670655
+    },
+    {
+        "miasto": "Kościerzyna",
+        "lat": 54.1210215,
+        "lon": 17.9781656
+    },
+    {
+        "miasto": "Żagań",
+        "lat": 51.6148068,
+        "lon": 15.3203721
+    },
+    {
+        "miasto": "Kościan",
+        "lat": 52.086325,
+        "lon": 16.6449995
+    },
+    {
+        "miasto": "Lubliniec",
+        "lat": 50.669016,
+        "lon": 18.6825574
+    },
+    {
+        "miasto": "Piastów",
+        "lat": 52.185552,
+        "lon": 20.847642
+    },
+    {
+        "miasto": "Białogard",
+        "lat": 54.0145099,
+        "lon": 15.9691251
+    },
+    {
+        "miasto": "Orzesze",
+        "lat": 50.1084451,
+        "lon": 18.792235
+    },
+    {
+        "miasto": "Aleksandrów Łódzki",
+        "lat": 51.8196533,
+        "lon": 19.3035375
+    },
+    {
+        "miasto": "Kluczbork",
+        "lat": 50.9730701,
+        "lon": 18.2140089
+    },
+    {
+        "miasto": "Świebodzice",
+        "lat": 50.859573,
+        "lon": 16.3196056
+    },
+    {
+        "miasto": "Szczytno",
+        "lat": 53.565489,
+        "lon": 20.991589
+    },
+    {
+        "miasto": "Sulejówek",
+        "lat": 52.2433944,
+        "lon": 21.2777123
+    },
+    {
+        "miasto": "Płońsk",
+        "lat": 52.6226617,
+        "lon": 20.3705091
+    },
+    {
+        "miasto": "Ostrów Mazowiecka",
+        "lat": 52.8000429,
+        "lon": 21.897638
+    },
+    {
+        "miasto": "Goleniów",
+        "lat": 53.5656939,
+        "lon": 14.8299285
+    },
+    {
+        "miasto": "Józefów",
+        "lat": 50.4808298,
+        "lon": 23.0540591
+    },
+    {
+        "miasto": "Polkowice",
+        "lat": 51.5039288,
+        "lon": 16.0713371
+    },
+    {
+        "miasto": "Bartoszyce",
+        "lat": 54.2534341,
+        "lon": 20.8083932
+    },
+    {
+        "miasto": "Sandomierz",
+        "lat": 50.6793066,
+        "lon": 21.7495055
+    },
+    {
+        "miasto": "Łaziska Górne",
+        "lat": 50.1500892,
+        "lon": 18.8390661
+    },
+    {
+        "miasto": "Grajewo",
+        "lat": 53.6469842,
+        "lon": 22.4548627
+    },
+    {
+        "miasto": "Zambrów",
+        "lat": 52.9758333,
+        "lon": 22.2372935
+    },
+    {
+        "miasto": "Świebodzin",
+        "lat": 52.2498357,
+        "lon": 15.5324973
+    },
+    {
+        "miasto": "Mrągowo",
+        "lat": 53.8685741,
+        "lon": 21.3051587
+    },
+    {
+        "miasto": "Jawor",
+        "lat": 51.0504653,
+        "lon": 16.1932008
+    },
+    {
+        "miasto": "Wieluń",
+        "lat": 51.2204544,
+        "lon": 18.5700965
+    },
+    {
+        "miasto": "Nowa Ruda",
+        "lat": 50.5791982,
+        "lon": 16.5014757
+    },
+    {
+        "miasto": "Rydułtowy",
+        "lat": 50.058436,
+        "lon": 18.4171831
+    },
+    {
+        "miasto": "Działdowo",
+        "lat": 53.2346517,
+        "lon": 20.1817841
+    },
+    {
+        "miasto": "Gostyń",
+        "lat": 51.8778633,
+        "lon": 17.0167637
+    },
+    {
+        "miasto": "Gryfino",
+        "lat": 53.2535889,
+        "lon": 14.4924243
+    },
+    {
+        "miasto": "Lubartów",
+        "lat": 51.4660473,
+        "lon": 22.6052895
+    },
+    {
+        "miasto": "Rawicz",
+        "lat": 51.6101629,
+        "lon": 16.8583657
+    },
+    {
+        "miasto": "Lubań",
+        "lat": 51.1147105,
+        "lon": 15.2811574
+    },
+    {
+        "miasto": "Konstantynów Łódzki",
+        "lat": 51.7572134,
+        "lon": 19.3082412
+    },
+    {
+        "miasto": "Koło",
+        "lat": 52.2019866,
+        "lon": 18.6359912
+    },
+    {
+        "miasto": "Pułtusk",
+        "lat": 52.7051109,
+        "lon": 21.0840274
+    },
+    {
+        "miasto": "Hajnówka",
+        "lat": 52.7317575,
+        "lon": 23.5712488
+    },
+    {
+        "miasto": "Prudnik",
+        "lat": 50.3217212,
+        "lon": 17.5801041
+    },
+    {
+        "miasto": "Bieruń",
+        "lat": 50.0931922,
+        "lon": 19.0918262
+    },
+    {
+        "miasto": "Opoczno",
+        "lat": 51.3782439,
+        "lon": 20.2931754
+    },
+    {
+        "miasto": "Trzebinia",
+        "lat": 50.1597686,
+        "lon": 19.4709097
+    },
+    {
+        "miasto": "Sokołów Podlaski",
+        "lat": 52.4081717,
+        "lon": 22.2525679
+    },
+    {
+        "miasto": "Łomianki",
+        "lat": 52.3355273,
+        "lon": 20.895012
+    },
+    {
+        "miasto": "Andrychów",
+        "lat": 49.8555791,
+        "lon": 19.3436756
+    },
+    {
+        "miasto": "Szamotuły",
+        "lat": 52.6120328,
+        "lon": 16.5831241
+    },
+    {
+        "miasto": "Zielonka",
+        "lat": 52.310847,
+        "lon": 21.1523199
+    },
+    {
+        "miasto": "Złotów",
+        "lat": 53.3631938,
+        "lon": 17.034694
+    },
+    {
+        "miasto": "Ozorków",
+        "lat": 51.9587654,
+        "lon": 19.2893064
+    },
+    {
+        "miasto": "Chełmno",
+        "lat": 53.3493915,
+        "lon": 18.4235473
+    },
+    {
+        "miasto": "Łańcut",
+        "lat": 50.0690725,
+        "lon": 22.2320924
+    },
+    {
+        "miasto": "Myślenice",
+        "lat": 49.834608,
+        "lon": 19.9384283
+    },
+    {
+        "miasto": "Tomaszów Lubelski",
+        "lat": 50.4469315,
+        "lon": 23.4165561
+    },
+    {
+        "miasto": "Kęty",
+        "lat": 49.882908,
+        "lon": 19.2239362
+    },
+    {
+        "miasto": "Kostrzyn nad Odrą",
+        "lat": 52.5898737,
+        "lon": 14.6536335
+    },
+    {
+        "miasto": "Pisz",
+        "lat": 53.6294943,
+        "lon": 21.8098191
+    },
+    {
+        "miasto": "Łęczna",
+        "lat": 51.3002941,
+        "lon": 22.886766
+    },
+    {
+        "miasto": "Garwolin",
+        "lat": 51.8958048,
+        "lon": 21.6210647
+    },
+    {
+        "miasto": "Końskie",
+        "lat": 51.1910223,
+        "lon": 20.4071836
+    },
+    {
+        "miasto": "Pyskowice",
+        "lat": 50.3916268,
+        "lon": 18.6108815
+    },
+    {
+        "miasto": "Krasnystaw",
+        "lat": 50.9844757,
+        "lon": 23.1635704
+    },
+    {
+        "miasto": "Chodzież",
+        "lat": 52.9886824,
+        "lon": 16.9159506
+    },
+    {
+        "miasto": "Oborniki",
+        "lat": 52.6455252,
+        "lon": 16.8099756
+    },
+    {
+        "miasto": "Niepołomice",
+        "lat": 50.0331163,
+        "lon": 20.2171599
+    },
+    {
+        "miasto": "Wadowice",
+        "lat": 49.8834484,
+        "lon": 19.4925345
+    },
+    {
+        "miasto": "Sokółka",
+        "lat": 53.4049183,
+        "lon": 23.4995562
+    },
+    {
+        "miasto": "Kamienna Góra",
+        "lat": 50.7837361,
+        "lon": 16.0336631
+    },
+    {
+        "miasto": "Nakło nad Notecią",
+        "lat": 53.1386896,
+        "lon": 17.5998891
+    },
+    {
+        "miasto": "Konstancin-Jeziorna",
+        "lat": 52.0834787,
+        "lon": 21.1208073
+    },
+    {
+        "miasto": "Strzelce Opolskie",
+        "lat": 50.5109033,
+        "lon": 18.3004547
+    },
+    {
+        "miasto": "Gostynin",
+        "lat": 52.4242453,
+        "lon": 19.4633384
+    },
+    {
+        "miasto": "Sierpc",
+        "lat": 52.853177,
+        "lon": 19.661414
+    },
+    {
+        "miasto": "Grójec",
+        "lat": 51.8655126,
+        "lon": 20.8675017
+    },
+    {
+        "miasto": "Radlin",
+        "lat": 50.0486957,
+        "lon": 18.4791456
+    },
+    {
+        "miasto": "Namysłów",
+        "lat": 51.0766258,
+        "lon": 17.7185619
+    },
+    {
+        "miasto": "Międzyrzecz",
+        "lat": 52.4448261,
+        "lon": 15.578637
+    },
+    {
+        "miasto": "Pleszew",
+        "lat": 51.8960985,
+        "lon": 17.7865673
+    },
+    {
+        "miasto": "Milanówek",
+        "lat": 52.123784,
+        "lon": 20.6693368
+    },
+    {
+        "miasto": "Trzcianka",
+        "lat": 53.041755,
+        "lon": 16.4614788
+    },
+    {
+        "miasto": "Lędziny",
+        "lat": 50.128624,
+        "lon": 19.1160922
+    },
+    {
+        "miasto": "Przasnysz",
+        "lat": 53.018288,
+        "lon": 20.8845646
+    },
+    {
+        "miasto": "Bytów",
+        "lat": 54.1694592,
+        "lon": 17.4890263
+    },
+    {
+        "miasto": "Słubice",
+        "lat": 52.3557481,
+        "lon": 14.5662367
+    },
+    {
+        "miasto": "Radzionków",
+        "lat": 50.4002717,
+        "lon": 18.9026247
+    },
+    {
+        "miasto": "Braniewo",
+        "lat": 54.3791309,
+        "lon": 19.8222225
+    },
+    {
+        "miasto": "Łask",
+        "lat": 51.5929947,
+        "lon": 19.1334784
+    },
+    {
+        "miasto": "Pionki",
+        "lat": 51.4730031,
+        "lon": 21.4438404
+    },
+    {
+        "miasto": "Rawa Mazowiecka",
+        "lat": 51.7624929,
+        "lon": 20.2519293
+    },
+    {
+        "miasto": "Bogatynia",
+        "lat": 50.9077147,
+        "lon": 14.9539185
+    },
+    {
+        "miasto": "Ustroń",
+        "lat": 49.7186488,
+        "lon": 18.8251075
+    },
+    {
+        "miasto": "Libiąż",
+        "lat": 50.1030516,
+        "lon": 19.3147486
+    },
+    {
+        "miasto": "Brzesko",
+        "lat": 49.9678396,
+        "lon": 20.6068496
+    },
+    {
+        "miasto": "Ropczyce",
+        "lat": 50.0528608,
+        "lon": 21.6116324
+    },
+    {
+        "miasto": "Hrubieszów",
+        "lat": 50.8067962,
+        "lon": 23.8863499
+    },
+    {
+        "miasto": "Ożarów Mazowiecki",
+        "lat": 52.2080548,
+        "lon": 20.7941606
+    },
+    {
+        "miasto": "Nowogard",
+        "lat": 53.6687698,
+        "lon": 15.1225889
+    },
+    {
+        "miasto": "Olecko",
+        "lat": 54.0398024,
+        "lon": 22.4934246
+    },
+    {
+        "miasto": "Gubin",
+        "lat": 51.957341,
+        "lon": 14.7370426
+    },
+    {
+        "miasto": "Sulechów",
+        "lat": 52.0854782,
+        "lon": 15.6259091
+    },
+    {
+        "miasto": "Kozienice",
+        "lat": 51.5849678,
+        "lon": 21.549883
+    },
+    {
+        "miasto": "Międzyrzec Podlaski",
+        "lat": 51.9816127,
+        "lon": 22.7867267
+    },
+    {
+        "miasto": "Rypin",
+        "lat": 53.0672809,
+        "lon": 19.4060273
+    },
+    {
+        "miasto": "Gryfice",
+        "lat": 53.9148529,
+        "lon": 15.1987062
+    },
+    {
+        "miasto": "Krapkowice",
+        "lat": 50.4747406,
+        "lon": 17.9670987
+    },
+    {
+        "miasto": "Radzymin",
+        "lat": 52.4176347,
+        "lon": 21.1807836
+    },
+    {
+        "miasto": "Solec Kujawski",
+        "lat": 53.0791965,
+        "lon": 18.2246086
+    },
+    {
+        "miasto": "Grodzisk Wielkopolski",
+        "lat": 52.2263198,
+        "lon": 16.3628106
+    },
+    {
+        "miasto": "Jelcz-Laskowice",
+        "lat": 51.0398306,
+        "lon": 17.3499638
+    },
+    {
+        "miasto": "Strzegom",
+        "lat": 50.9601066,
+        "lon": 16.3462134
+    },
+    {
+        "miasto": "Brwinów",
+        "lat": 52.1425551,
+        "lon": 20.7170701
+    },
+    {
+        "miasto": "Mosina",
+        "lat": 52.2455834,
+        "lon": 16.8472591
+    },
+    {
+        "miasto": "Przeworsk",
+        "lat": 50.0601735,
+        "lon": 22.4923769
+    },
+    {
+        "miasto": "Świdwin",
+        "lat": 53.774596,
+        "lon": 15.7767962
+    },
+    {
+        "miasto": "Limanowa",
+        "lat": 49.7061713,
+        "lon": 20.4217266
+    },
+    {
+        "miasto": "Lidzbark Warmiński",
+        "lat": 54.1259406,
+        "lon": 20.5805641
+    },
+    {
+        "miasto": "Nisko",
+        "lat": 50.5198985,
+        "lon": 22.139886
+    },
+    {
+        "miasto": "Łapy",
+        "lat": 52.9908208,
+        "lon": 22.883005
+    },
+    {
+        "miasto": "Busko-Zdrój",
+        "lat": 50.46759,
+        "lon": 20.71919
+    },
+    {
+        "miasto": "Radzyń Podlaski",
+        "lat": 51.7756663,
+        "lon": 22.6249658
+    },
+    {
+        "miasto": "Ząbkowice Śląskie",
+        "lat": 50.5892698,
+        "lon": 16.8111518
+    },
+    {
+        "miasto": "Boguszów-Gorce",
+        "lat": 50.7552522,
+        "lon": 16.1963635
+    },
+    {
+        "miasto": "Złotoryja",
+        "lat": 51.1224089,
+        "lon": 15.9194476
+    },
+    {
+        "miasto": "Dęblin",
+        "lat": 51.5672318,
+        "lon": 21.856244
+    },
+    {
+        "miasto": "Jędrzejów",
+        "lat": 50.6394435,
+        "lon": 20.3046116
+    },
+    {
+        "miasto": "Choszczno",
+        "lat": 53.1704801,
+        "lon": 15.4167349
+    },
+    {
+        "miasto": "Kartuzy",
+        "lat": 54.3342281,
+        "lon": 18.1973639
+    },
+    {
+        "miasto": "Chełmża",
+        "lat": 53.1923757,
+        "lon": 18.6125545
+    },
+    {
+        "miasto": "Trzebnica",
+        "lat": 51.3096424,
+        "lon": 17.062596
+    },
+    {
+        "miasto": "Ustka",
+        "lat": 54.5734467,
+        "lon": 16.8591806
+    },
+    {
+        "miasto": "Ostrzeszów",
+        "lat": 51.4257664,
+        "lon": 17.9331788
+    },
+    {
+        "miasto": "Nowy Tomyśl",
+        "lat": 52.3177643,
+        "lon": 16.1291553
+    },
+    {
+        "miasto": "Staszów",
+        "lat": 50.5612276,
+        "lon": 21.1677849
+    },
+    {
+        "miasto": "Kępno",
+        "lat": 51.2790265,
+        "lon": 17.9866632
+    },
+    {
+        "miasto": "Siemiatycze",
+        "lat": 52.4209252,
+        "lon": 22.8754373
+    },
+    {
+        "miasto": "Lipno",
+        "lat": 52.8473901,
+        "lon": 19.1792654
+    },
+    {
+        "miasto": "Skoczów",
+        "lat": 49.7999039,
+        "lon": 18.7877583
+    },
+    {
+        "miasto": "Gołdap",
+        "lat": 54.3077084,
+        "lon": 22.3018576
+    },
+    {
+        "miasto": "Głowno",
+        "lat": 51.9623982,
+        "lon": 19.7116624
+    },
+    {
+        "miasto": "Łęczyca",
+        "lat": 52.0593858,
+        "lon": 19.2016434
+    },
+    {
+        "miasto": "Pszów",
+        "lat": 50.0449928,
+        "lon": 18.396219
+    },
+    {
+        "miasto": "Człuchów",
+        "lat": 53.6634472,
+        "lon": 17.3580748
+    },
+    {
+        "miasto": "Żnin",
+        "lat": 52.8469452,
+        "lon": 17.72395
+    },
+    {
+        "miasto": "Tuchola",
+        "lat": 53.5880901,
+        "lon": 17.8590414
+    },
+    {
+        "miasto": "Wschowa",
+        "lat": 51.8038354,
+        "lon": 16.3172771
+    },
+    {
+        "miasto": "Barlinek",
+        "lat": 52.9920762,
+        "lon": 15.2166391
+    },
+    {
+        "miasto": "Słupca",
+        "lat": 52.2872924,
+        "lon": 17.8713612
+    },
+    {
+        "miasto": "Wąbrzeźno",
+        "lat": 53.2783501,
+        "lon": 18.9404948
+    },
+    {
+        "miasto": "Dębno",
+        "lat": 52.7396681,
+        "lon": 14.7014522
+    },
+    {
+        "miasto": "Wasilków",
+        "lat": 53.198684,
+        "lon": 23.2056777
+    },
+    {
+        "miasto": "Lubsko",
+        "lat": 51.7881902,
+        "lon": 14.9721266
+    },
+    {
+        "miasto": "Morąg",
+        "lat": 53.9119982,
+        "lon": 19.9279895
+    },
+    {
+        "miasto": "Leżajsk",
+        "lat": 50.2653957,
+        "lon": 22.4217605
+    },
+    {
+        "miasto": "Głuchołazy",
+        "lat": 50.3170828,
+        "lon": 17.3833809
+    },
+    {
+        "miasto": "Nidzica",
+        "lat": 53.3613838,
+        "lon": 20.4275719
+    },
+    {
+        "miasto": "Brzeg Dolny",
+        "lat": 51.2691744,
+        "lon": 16.7083805
+    },
+    {
+        "miasto": "Darłowo",
+        "lat": 54.42249,
+        "lon": 16.40933
+    },
+    {
+        "miasto": "Sędziszów Małopolski",
+        "lat": 50.0715996,
+        "lon": 21.7007524
+    },
+    {
+        "miasto": "Chojnów",
+        "lat": 51.2722138,
+        "lon": 15.9393854
+    },
+    {
+        "miasto": "Błonie",
+        "lat": 52.1946065,
+        "lon": 20.6169694
+    },
+    {
+        "miasto": "Góra Kalwaria",
+        "lat": 51.9843765,
+        "lon": 21.2140226
+    },
+    {
+        "miasto": "Rabka-Zdrój",
+        "lat": 49.6076663,
+        "lon": 19.9622575
+    },
+    {
+        "miasto": "Kłobuck",
+        "lat": 50.9025547,
+        "lon": 18.93716
+    },
+    {
+        "miasto": "Włodawa",
+        "lat": 51.5466412,
+        "lon": 23.553219
+    },
+    {
+        "miasto": "Złocieniec",
+        "lat": 53.5310477,
+        "lon": 16.0107245
+    },
+    {
+        "miasto": "Koluszki",
+        "lat": 51.7444956,
+        "lon": 19.817966
+    },
+    {
+        "miasto": "Wołów",
+        "lat": 51.3363841,
+        "lon": 16.6486903
+    },
+    {
+        "miasto": "Strzelin",
+        "lat": 50.78092,
+        "lon": 17.0683947
+    },
+    {
+        "miasto": "Brzeziny",
+        "lat": 51.8006607,
+        "lon": 19.7446206
+    },
+    {
+        "miasto": "Warka",
+        "lat": 51.7850969,
+        "lon": 21.1833835
+    },
+    {
+        "miasto": "Wolsztyn",
+        "lat": 52.11725,
+        "lon": 16.1126622
+    },
+    {
+        "miasto": "Węgrów",
+        "lat": 52.4008283,
+        "lon": 22.0464785
+    },
+    {
+        "miasto": "Pyrzyce",
+        "lat": 53.1461083,
+        "lon": 14.8924485
+    },
+    {
+        "miasto": "Sławno",
+        "lat": 54.361142,
+        "lon": 16.6754076
+    },
+    {
+        "miasto": "Pasłęk",
+        "lat": 54.0626346,
+        "lon": 19.6565365
+    },
+    {
+        "miasto": "Głubczyce",
+        "lat": 50.2001072,
+        "lon": 17.8301977
+    },
+    {
+        "miasto": "Aleksandrów Kujawski",
+        "lat": 52.8764647,
+        "lon": 18.694071
+    },
+    {
+        "miasto": "Dąbrowa Tarnowska",
+        "lat": 50.1743495,
+        "lon": 20.9850707
+    },
+    {
+        "miasto": "Lubaczów",
+        "lat": 50.1574473,
+        "lon": 23.1225859
+    },
+    {
+        "miasto": "Siechnice",
+        "lat": 51.0323875,
+        "lon": 17.1507275
+    },
+    {
+        "miasto": "Golub-Dobrzyń",
+        "lat": 53.1138924,
+        "lon": 19.0544501
+    },
+    {
+        "miasto": "Drawsko Pomorskie",
+        "lat": 53.5310786,
+        "lon": 15.8134179
+    },
+    {
+        "miasto": "Miechów",
+        "lat": 50.3566016,
+        "lon": 20.0276912
+    },
+    {
+        "miasto": "Mogilno",
+        "lat": 52.657341,
+        "lon": 17.9500677
+    },
+    {
+        "miasto": "Janów Lubelski",
+        "lat": 50.7065895,
+        "lon": 22.4110663
+    },
+    {
+        "miasto": "Rogoźno",
+        "lat": 52.7523023,
+        "lon": 16.9936288
+    },
+    {
+        "miasto": "Koronowo",
+        "lat": 53.3140636,
+        "lon": 17.9369813
+    },
+    {
+        "miasto": "Głogów Małopolski",
+        "lat": 50.1511809,
+        "lon": 21.9627571
+    },
+    {
+        "miasto": "Milicz",
+        "lat": 51.5319957,
+        "lon": 17.2752485
+    },
+    {
+        "miasto": "Góra",
+        "lat": 51.6681499,
+        "lon": 16.5393277
+    },
+    {
+        "miasto": "Lubawa",
+        "lat": 53.5051482,
+        "lon": 19.7494057
+    },
+    {
+        "miasto": "Brzeszcze",
+        "lat": 49.9819014,
+        "lon": 19.1528065
+    },
+    {
+        "miasto": "Wisła",
+        "lat": 52.380897,
+        "lon": 20.0867774
+    },
+    {
+        "miasto": "Węgorzewo",
+        "lat": 54.2138162,
+        "lon": 21.7416569
+    },
+    {
+        "miasto": "Szydłowiec",
+        "lat": 51.2238922,
+        "lon": 20.8575141
+    },
+    {
+        "miasto": "Szprotawa",
+        "lat": 51.5650714,
+        "lon": 15.5367584
+    },
+    {
+        "miasto": "Wronki",
+        "lat": 52.7100316,
+        "lon": 16.3742572
+    },
+    {
+        "miasto": "Krosno Odrzańskie",
+        "lat": 52.0536361,
+        "lon": 15.0980258
+    },
+    {
+        "miasto": "Puck",
+        "lat": 54.7203995,
+        "lon": 18.411338
+    },
+    {
+        "miasto": "Myślibórz",
+        "lat": 52.924825,
+        "lon": 14.8664799
+    },
+    {
+        "miasto": "Nowa Dęba",
+        "lat": 50.413485,
+        "lon": 21.7541268
+    },
+    {
+        "miasto": "Murowana Goślina",
+        "lat": 52.5758465,
+        "lon": 17.0097914
+    },
+    {
+        "miasto": "Parczew",
+        "lat": 51.639,
+        "lon": 22.9
+    },
+    {
+        "miasto": "Ciechocinek",
+        "lat": 52.882552,
+        "lon": 18.7906883
+    },
+    {
+        "miasto": "Zdzieszowice",
+        "lat": 50.4202928,
+        "lon": 18.1193187
+    },
+    {
+        "miasto": "Nowe Miasto Lubawskie",
+        "lat": 53.4248994,
+        "lon": 19.5839235
+    },
+    {
+        "miasto": "Syców",
+        "lat": 51.3078551,
+        "lon": 17.7198113
+    },
+    {
+        "miasto": "Międzychód",
+        "lat": 52.6046468,
+        "lon": 15.8935386
+    },
+    {
+        "miasto": "Biskupiec",
+        "lat": 53.8688,
+        "lon": 20.95518
+    },
+    {
+        "miasto": "Pobiedziska",
+        "lat": 52.4773387,
+        "lon": 17.2870352
+    },
+    {
+        "miasto": "Kostrzyn",
+        "lat": 52.3983662,
+        "lon": 17.2275394
+    },
+    {
+        "miasto": "Czersk",
+        "lat": 53.796196,
+        "lon": 17.9756228
+    },
+    {
+        "miasto": "Czarnków",
+        "lat": 52.9010725,
+        "lon": 16.5725842
+    },
+    {
+        "miasto": "Kolno",
+        "lat": 53.4016867,
+        "lon": 21.9360777
+    },
+    {
+        "miasto": "Krzeszowice",
+        "lat": 50.1350246,
+        "lon": 19.6320164
+    },
+    {
+        "miasto": "Strzelce Krajeńskie",
+        "lat": 52.8785785,
+        "lon": 15.5326861
+    },
+    {
+        "miasto": "Sulęcin",
+        "lat": 52.4413768,
+        "lon": 15.1161501
+    },
+    {
+        "miasto": "Pińczów",
+        "lat": 50.5201929,
+        "lon": 20.5256241
+    },
+    {
+        "miasto": "Kowary",
+        "lat": 50.778678,
+        "lon": 15.8360509
+    },
+    {
+        "miasto": "Środa Śląska",
+        "lat": 51.1638949,
+        "lon": 16.5942505
+    },
+    {
+        "miasto": "Krynica-Zdrój",
+        "lat": 49.4206138,
+        "lon": 20.9594176
+    },
+    {
+        "miasto": "Łobez",
+        "lat": 53.6391189,
+        "lon": 15.6213487
+    },
+    {
+        "miasto": "Włoszczowa",
+        "lat": 50.8520727,
+        "lon": 19.9667772
+    },
+    {
+        "miasto": "Nowy Dwór Gdański",
+        "lat": 54.2146299,
+        "lon": 19.1150846
+    },
+    {
+        "miasto": "Imielin",
+        "lat": 50.1440745,
+        "lon": 19.2025837
+    },
+    {
+        "miasto": "Drezdenko",
+        "lat": 52.8398486,
+        "lon": 15.8318163
+    },
+    {
+        "miasto": "Mońki",
+        "lat": 53.4065738,
+        "lon": 22.7983772
+    },
+    {
+        "miasto": "Szubin",
+        "lat": 53.0117503,
+        "lon": 17.7439402
+    },
+    {
+        "miasto": "Bukowno",
+        "lat": 50.2609998,
+        "lon": 19.4361777
+    },
+    {
+        "miasto": "Miastko",
+        "lat": 54.0001478,
+        "lon": 16.9774717
+    },
+    {
+        "miasto": "Trzebiatów",
+        "lat": 54.062627,
+        "lon": 15.2656577
+    },
+    {
+        "miasto": "Opalenica",
+        "lat": 52.3088119,
+        "lon": 16.4124256
+    },
+    {
+        "miasto": "Puszczykowo",
+        "lat": 52.277612,
+        "lon": 16.8557214
+    },
+    {
+        "miasto": "Dobre Miasto",
+        "lat": 53.9868899,
+        "lon": 20.3973402
+    },
+    {
+        "miasto": "Karczew",
+        "lat": 52.0782795,
+        "lon": 21.2508068
+    },
+    {
+        "miasto": "Kudowa-Zdrój",
+        "lat": 50.4457857,
+        "lon": 16.2541473
+    },
+    {
+        "miasto": "Władysławowo",
+        "lat": 54.7901316,
+        "lon": 18.4087342
+    },
+    {
+        "miasto": "Kruszwica",
+        "lat": 52.6743797,
+        "lon": 18.3254766
+    },
+    {
+        "miasto": "Skwierzyna",
+        "lat": 52.5967483,
+        "lon": 15.5010958
+    },
+    {
+        "miasto": "Olesno",
+        "lat": 50.8766575,
+        "lon": 18.4219452
+    },
+    {
+        "miasto": "Wysokie Mazowieckie",
+        "lat": 52.9154988,
+        "lon": 22.5131199
+    },
+    {
+        "miasto": "Sztum",
+        "lat": 53.9198663,
+        "lon": 19.0305384
+    },
+    {
+        "miasto": "Blachownia",
+        "lat": 50.7820239,
+        "lon": 18.9684255
+    },
+    {
+        "miasto": "Oborniki Śląskie",
+        "lat": 51.3010662,
+        "lon": 16.9145509
+    },
+    {
+        "miasto": "Ryki",
+        "lat": 51.6266968,
+        "lon": 21.935696
+    },
+    {
+        "miasto": "Maków Mazowiecki",
+        "lat": 52.8620544,
+        "lon": 21.0923524
+    },
+    {
+        "miasto": "Kożuchów",
+        "lat": 51.7454762,
+        "lon": 15.5944541
+    },
+    {
+        "miasto": "Bystrzyca Kłodzka",
+        "lat": 50.2968684,
+        "lon": 16.652017
+    },
+    {
+        "miasto": "Sucha Beskidzka",
+        "lat": 49.74079,
+        "lon": 19.5905975
+    },
+    {
+        "miasto": "Sępólno Krajeńskie",
+        "lat": 53.4547434,
+        "lon": 17.5348373
+    },
+    {
+        "miasto": "Stary Sącz",
+        "lat": 49.5640376,
+        "lon": 20.6366038
+    },
+    {
+        "miasto": "Czarna Białostocka",
+        "lat": 53.2982835,
+        "lon": 23.2851013
+    },
+    {
+        "miasto": "Kolbuszowa",
+        "lat": 50.2433277,
+        "lon": 21.7754563
+    },
+    {
+        "miasto": "Wojkowice",
+        "lat": 50.3652915,
+        "lon": 19.0366218
+    },
+    {
+        "miasto": "Żuromin",
+        "lat": 53.0671703,
+        "lon": 19.9078353
+    },
+    {
+        "miasto": "Strzyżów",
+        "lat": 49.8702087,
+        "lon": 21.7856291
+    },
+    {
+        "miasto": "Chełmek",
+        "lat": 50.1003348,
+        "lon": 19.2542585
+    },
+    {
+        "miasto": "Ustrzyki Dolne",
+        "lat": 49.4301874,
+        "lon": 22.5877003
+    },
+    {
+        "miasto": "Wieruszów",
+        "lat": 51.2951647,
+        "lon": 18.1510623
+    },
+    {
+        "miasto": "Jastrowie",
+        "lat": 53.4205494,
+        "lon": 16.8150156
+    },
+    {
+        "miasto": "Kamień Pomorski",
+        "lat": 53.9653947,
+        "lon": 14.7728556
+    },
+    {
+        "miasto": "Poniatowa",
+        "lat": 51.19298,
+        "lon": 22.06505
+    },
+    {
+        "miasto": "Kalety",
+        "lat": 50.5636291,
+        "lon": 18.885746
+    },
+    {
+        "miasto": "Kórnik",
+        "lat": 52.2492751,
+        "lon": 17.0901242
+    },
+    {
+        "miasto": "Lwówek Śląski",
+        "lat": 51.1108891,
+        "lon": 15.5850018
+    },
+    {
+        "miasto": "Janikowo",
+        "lat": 52.7531648,
+        "lon": 18.1141024
+    },
+    {
+        "miasto": "Poręba",
+        "lat": 50.4890456,
+        "lon": 19.3262811
+    },
+    {
+        "miasto": "Pniewy",
+        "lat": 52.5089624,
+        "lon": 16.2566411
+    },
+    {
+        "miasto": "Prabuty",
+        "lat": 53.755995,
+        "lon": 19.2044449
+    },
+    {
+        "miasto": "Tłuszcz",
+        "lat": 52.4301697,
+        "lon": 21.4355074
+    },
+    {
+        "miasto": "Wolbrom",
+        "lat": 50.3848386,
+        "lon": 19.7598844
+    },
+    {
+        "miasto": "Ziębice",
+        "lat": 50.6007752,
+        "lon": 17.0405633
+    },
+    {
+        "miasto": "Orneta",
+        "lat": 54.1155533,
+        "lon": 20.1303378
+    },
+    {
+        "miasto": "Ozimek",
+        "lat": 50.6789196,
+        "lon": 18.2125227
+    },
+    {
+        "miasto": "Grodków",
+        "lat": 50.698157,
+        "lon": 17.3849804
+    },
+    {
+        "miasto": "Mszana Dolna",
+        "lat": 49.6779756,
+        "lon": 20.0820073
+    },
+    {
+        "miasto": "Opole Lubelskie",
+        "lat": 51.1475365,
+        "lon": 21.9664152
+    },
+    {
+        "miasto": "Żychlin",
+        "lat": 52.2440088,
+        "lon": 19.6260932
+    },
+    {
+        "miasto": "Suchedniów",
+        "lat": 51.0472338,
+        "lon": 20.8386652
+    },
+    {
+        "miasto": "Witkowo",
+        "lat": 52.4395881,
+        "lon": 17.7725138
+    },
+    {
+        "miasto": "Połaniec",
+        "lat": 50.4329071,
+        "lon": 21.2810473
+    },
+    {
+        "miasto": "Barczewo",
+        "lat": 53.8297112,
+        "lon": 20.6911497
+    },
+    {
+        "miasto": "Chocianów",
+        "lat": 51.4168327,
+        "lon": 15.8986889
+    },
+    {
+        "miasto": "Chojna",
+        "lat": 52.9629793,
+        "lon": 14.4314113
+    },
+    {
+        "miasto": "Nasielsk",
+        "lat": 52.5867531,
+        "lon": 20.8130115
+    },
+    {
+        "miasto": "Trzemeszno",
+        "lat": 52.5600669,
+        "lon": 17.8208936
+    },
+    {
+        "miasto": "Połczyn-Zdrój",
+        "lat": 53.7648981,
+        "lon": 16.0952705
+    },
+    {
+        "miasto": "Tuszyn",
+        "lat": 51.60308,
+        "lon": 19.54454
+    },
+    {
+        "miasto": "Kąty Wrocławskie",
+        "lat": 51.0302656,
+        "lon": 16.7702325
+    },
+    {
+        "miasto": "Lidzbark",
+        "lat": 53.2628043,
+        "lon": 19.8231836
+    },
+    {
+        "miasto": "Olsztynek",
+        "lat": 53.5834201,
+        "lon": 20.2816198
+    },
+    {
+        "miasto": "Brzozów",
+        "lat": 49.6950395,
+        "lon": 22.0196537
+    },
+    {
+        "miasto": "Pelplin",
+        "lat": 53.9283217,
+        "lon": 18.6978494
+    },
+    {
+        "miasto": "Zwoleń",
+        "lat": 51.3564745,
+        "lon": 21.5844652
+    },
+    {
+        "miasto": "Sobótka",
+        "lat": 50.8992843,
+        "lon": 16.7445155
+    },
+    {
+        "miasto": "Praszka",
+        "lat": 51.05536,
+        "lon": 18.4485221
+    },
+    {
+        "miasto": "Zbąszyń",
+        "lat": 52.2501028,
+        "lon": 15.9209286
+    },
+    {
+        "miasto": "Zelów",
+        "lat": 51.4650276,
+        "lon": 19.2195805
+    },
+    {
+        "miasto": "Miasteczko Śląskie",
+        "lat": 50.4915736,
+        "lon": 18.9230247
+    },
+    {
+        "miasto": "Barcin",
+        "lat": 52.8632346,
+        "lon": 17.9472463
+    },
+    {
+        "miasto": "Sławków",
+        "lat": 50.2918851,
+        "lon": 19.3414305
+    },
+    {
+        "miasto": "Łosice",
+        "lat": 52.2115134,
+        "lon": 22.717294
+    },
+    {
+        "miasto": "Pieszyce",
+        "lat": 50.7124412,
+        "lon": 16.581609
+    },
+    {
+        "miasto": "Żukowo",
+        "lat": 54.3458469,
+        "lon": 18.3647494
+    },
+    {
+        "miasto": "Poddębice",
+        "lat": 51.8926555,
+        "lon": 18.9518908
+    },
+    {
+        "miasto": "Sianów",
+        "lat": 54.228188,
+        "lon": 16.2942839
+    },
+    {
+        "miasto": "Gniewkowo",
+        "lat": 52.894429,
+        "lon": 18.4066817
+    },
+    {
+        "miasto": "Czaplinek",
+        "lat": 53.560673,
+        "lon": 16.2319428
+    },
+    {
+        "miasto": "Paczków",
+        "lat": 50.4642876,
+        "lon": 17.0063856
+    },
+    {
+        "miasto": "Skarszewy",
+        "lat": 54.0717523,
+        "lon": 18.4459951
+    },
+    {
+        "miasto": "Łochów",
+        "lat": 52.53042,
+        "lon": 21.68528
+    },
+    {
+        "miasto": "Sułkowice",
+        "lat": 49.8408265,
+        "lon": 19.8012137
+    },
+    {
+        "miasto": "Witnica",
+        "lat": 52.6729399,
+        "lon": 14.8972121
+    },
+    {
+        "miasto": "Gogolin",
+        "lat": 50.4925107,
+        "lon": 18.0176197
+    },
+    {
+        "miasto": "Białobrzegi",
+        "lat": 50.7729192,
+        "lon": 23.1507229
+    },
+    {
+        "miasto": "Żarów",
+        "lat": 50.9438416,
+        "lon": 16.4923538
+    },
+    {
+        "miasto": "Rzepin",
+        "lat": 52.34432,
+        "lon": 14.8382902
+    },
+    {
+        "miasto": "Boguchwała",
+        "lat": 49.9806882,
+        "lon": 21.9391822
+    },
+    {
+        "miasto": "Pajęczno",
+        "lat": 51.1468824,
+        "lon": 18.9956984
+    },
+    {
+        "miasto": "Rudnik nad Sanem",
+        "lat": 50.4447766,
+        "lon": 22.2440326
+    },
+    {
+        "miasto": "Łazy",
+        "lat": 50.4276105,
+        "lon": 19.3948494
+    },
+    {
+        "miasto": "Zawadzkie",
+        "lat": 50.6065834,
+        "lon": 18.4801284
+    },
+    {
+        "miasto": "Żmigród",
+        "lat": 51.4717386,
+        "lon": 16.9082719
+    },
+    {
+        "miasto": "Choroszcz",
+        "lat": 53.143925,
+        "lon": 22.9884588
+    },
+    {
+        "miasto": "Tuchów",
+        "lat": 49.895219,
+        "lon": 21.0538362
+    },
+    {
+        "miasto": "Dobczyce",
+        "lat": 49.8803432,
+        "lon": 20.0905415
+    },
+    {
+        "miasto": "Twardogóra",
+        "lat": 51.364557,
+        "lon": 17.469599
+    },
+    {
+        "miasto": "Otmuchów",
+        "lat": 50.465351,
+        "lon": 17.1730499
+    },
+    {
+        "miasto": "Gniew",
+        "lat": 53.8342221,
+        "lon": 18.8251596
+    },
+    {
+        "miasto": "Koźmin Wielkopolski",
+        "lat": 51.8256567,
+        "lon": 17.4528473
+    },
+    {
+        "miasto": "Sędziszów",
+        "lat": 50.564781,
+        "lon": 20.0538047
+    },
+    {
+        "miasto": "Gryfów Śląski",
+        "lat": 51.0281455,
+        "lon": 15.4145051
+    },
+    {
+        "miasto": "Mszczonów",
+        "lat": 51.9740309,
+        "lon": 20.5126683
+    },
+    {
+        "miasto": "Dynów",
+        "lat": 49.8134771,
+        "lon": 22.2338151
+    },
+    {
+        "miasto": "Grybów",
+        "lat": 49.6149554,
+        "lon": 20.9488247
+    },
+    {
+        "miasto": "Sulejów",
+        "lat": 51.3549202,
+        "lon": 19.8890802
+    },
+    {
+        "miasto": "Polanica-Zdrój",
+        "lat": 50.3988609,
+        "lon": 16.5062022
+    },
+    {
+        "miasto": "Głuszyca",
+        "lat": 50.6862202,
+        "lon": 16.3730583
+    },
+    {
+        "miasto": "Opatów",
+        "lat": 50.8017661,
+        "lon": 21.4238281
+    },
+    {
+        "miasto": "Bełżyce",
+        "lat": 51.175063,
+        "lon": 22.2749995
+    },
+    {
+        "miasto": "Piława Górna",
+        "lat": 50.6829153,
+        "lon": 16.751068
+    },
+    {
+        "miasto": "Stęszew",
+        "lat": 52.2793539,
+        "lon": 16.6999331
+    },
+    {
+        "miasto": "Krzyż Wielkopolski",
+        "lat": 52.8796439,
+        "lon": 16.0141705
+    },
+    {
+        "miasto": "Kłodawa",
+        "lat": 52.2574519,
+        "lon": 18.911206
+    },
+    {
+        "miasto": "Niemodlin",
+        "lat": 50.6415925,
+        "lon": 17.6211388
+    },
+    {
+        "miasto": "Sieraków",
+        "lat": 52.6513857,
+        "lon": 16.0808137
+    },
+    {
+        "miasto": "Siewierz",
+        "lat": 50.4710097,
+        "lon": 19.2318901
+    },
+    {
+        "miasto": "Proszowice",
+        "lat": 50.1926479,
+        "lon": 20.2917555
+    },
+    {
+        "miasto": "Piechowice",
+        "lat": 50.8494747,
+        "lon": 15.5976047
+    },
+    {
+        "miasto": "Szklarska Poręba",
+        "lat": 50.8268011,
+        "lon": 15.5221261
+    },
+    {
+        "miasto": "Wieleń",
+        "lat": 52.8943347,
+        "lon": 16.1712847
+    },
+    {
+        "miasto": "Śmigiel",
+        "lat": 52.012744,
+        "lon": 16.5271118
+    },
+    {
+        "miasto": "Więcbork",
+        "lat": 53.3525453,
+        "lon": 17.4873925
+    },
+    {
+        "miasto": "Lewin Brzeski",
+        "lat": 50.7487107,
+        "lon": 17.616648
+    },
+    {
+        "miasto": "Przemków",
+        "lat": 51.5275418,
+        "lon": 15.7874473
+    },
+    {
+        "miasto": "Czarne",
+        "lat": 53.68353,
+        "lon": 16.94221
+    },
+    {
+        "miasto": "Maków Podhalański",
+        "lat": 49.7298971,
+        "lon": 19.6768803
+    },
+    {
+        "miasto": "Buk",
+        "lat": 52.357408,
+        "lon": 16.5166799
+    },
+    {
+        "miasto": "Jedlicze",
+        "lat": 49.714148,
+        "lon": 21.6421513
+    },
+    {
+        "miasto": "Lubawka",
+        "lat": 50.7070882,
+        "lon": 16.0003894
+    },
+    {
+        "miasto": "Karlino",
+        "lat": 54.0410287,
+        "lon": 15.8793019
+    },
+    {
+        "miasto": "Pieńsk",
+        "lat": 51.2457834,
+        "lon": 15.0449871
+    },
+    {
+        "miasto": "Głogówek",
+        "lat": 50.3534373,
+        "lon": 17.8619329
+    },
+    {
+        "miasto": "Kietrz",
+        "lat": 50.0796271,
+        "lon": 18.0021082
+    },
+    {
+        "miasto": "Jordanów",
+        "lat": 49.6492876,
+        "lon": 19.8299532
+    },
+    {
+        "miasto": "Nowe",
+        "lat": 53.6462325,
+        "lon": 18.7290468
+    },
+    {
+        "miasto": "Piwniczna-Zdrój",
+        "lat": 49.4406462,
+        "lon": 20.7142303
+    },
+    {
+        "miasto": "Serock",
+        "lat": 52.5135193,
+        "lon": 21.0731162
+    },
+    {
+        "miasto": "Koniecpol",
+        "lat": 50.7725294,
+        "lon": 19.6769723
+    },
+    {
+        "miasto": "Wołczyn",
+        "lat": 51.0190253,
+        "lon": 18.049603
+    },
+    {
+        "miasto": "Nowa Sarzyna",
+        "lat": 50.3197908,
+        "lon": 22.3434799
+    },
+    {
+        "miasto": "Szczyrk",
+        "lat": 49.7165976,
+        "lon": 19.0254613
+    },
+    {
+        "miasto": "Przysucha",
+        "lat": 51.3585043,
+        "lon": 20.6285468
+    },
+    {
+        "miasto": "Ścinawa",
+        "lat": 51.4165346,
+        "lon": 16.4259732
+    },
+    {
+        "miasto": "Szczawno-Zdrój",
+        "lat": 50.7951667,
+        "lon": 16.2232713
+    },
+    {
+        "miasto": "Orzysz",
+        "lat": 53.809833,
+        "lon": 21.9473601
+    },
+    {
+        "miasto": "Susz",
+        "lat": 53.7166619,
+        "lon": 19.3385289
+    },
+    {
+        "miasto": "Działoszyn",
+        "lat": 51.1167859,
+        "lon": 18.8651624
+    },
+    {
+        "miasto": "Strzelno",
+        "lat": 52.6301742,
+        "lon": 18.1733807
+    },
+    {
+        "miasto": "Szczawnica",
+        "lat": 49.4266299,
+        "lon": 20.4761439
+    },
+    {
+        "miasto": "Pakość",
+        "lat": 52.8073319,
+        "lon": 18.0899612
+    },
+    {
+        "miasto": "Terespol",
+        "lat": 52.0756167,
+        "lon": 23.6133645
+    },
+    {
+        "miasto": "Lesko",
+        "lat": 49.4689014,
+        "lon": 22.3303816
+    },
+    {
+        "miasto": "Wyrzysk",
+        "lat": 53.1569822,
+        "lon": 17.2627004
+    },
+    {
+        "miasto": "Czempiń",
+        "lat": 52.1431479,
+        "lon": 16.7613308
+    },
+    {
+        "miasto": "Brusy",
+        "lat": 53.8861557,
+        "lon": 17.7190437
+    },
+    {
+        "miasto": "Stąporków",
+        "lat": 51.1380145,
+        "lon": 20.5573073
+    },
+    {
+        "miasto": "Jaworzyna Śląska",
+        "lat": 50.9144217,
+        "lon": 16.4308642
+    },
+    {
+        "miasto": "Radziejów",
+        "lat": 52.6191062,
+        "lon": 18.5293653
+    },
+    {
+        "miasto": "Pilzno",
+        "lat": 49.978578,
+        "lon": 21.2908438
+    },
+    {
+        "miasto": "Kazimierza Wielka",
+        "lat": 50.267489,
+        "lon": 20.4853308
+    },
+    {
+        "miasto": "Dąbrowa Białostocka",
+        "lat": 53.654439,
+        "lon": 23.3485102
+    },
+    {
+        "miasto": "Stronie Śląskie",
+        "lat": 50.2916337,
+        "lon": 16.8736919
+    },
+    {
+        "miasto": "Odolanów",
+        "lat": 51.5742177,
+        "lon": 17.673514
+    },
+    {
+        "miasto": "Lądek-Zdrój",
+        "lat": 50.3458254,
+        "lon": 16.8725948
+    },
+    {
+        "miasto": "Lipsko",
+        "lat": 51.158513,
+        "lon": 21.6490099
+    },
+    {
+        "miasto": "Radymno",
+        "lat": 49.9517176,
+        "lon": 22.8183129
+    },
+    {
+        "miasto": "Zagórz",
+        "lat": 49.5098822,
+        "lon": 22.2632894
+    },
+    {
+        "miasto": "Zbąszynek",
+        "lat": 52.2436262,
+        "lon": 15.8138946
+    },
+    {
+        "miasto": "Dzierzgoń",
+        "lat": 53.9239051,
+        "lon": 19.3479491
+    },
+    {
+        "miasto": "Sejny",
+        "lat": 54.105725,
+        "lon": 23.3496591
+    },
+    {
+        "miasto": "Międzyzdroje",
+        "lat": 53.9282745,
+        "lon": 14.448903
+    },
+    {
+        "miasto": "Borne Sulinowo",
+        "lat": 53.5812939,
+        "lon": 16.538117
+    },
+    {
+        "miasto": "Debrzno",
+        "lat": 53.53861,
+        "lon": 17.2338685
+    },
+    {
+        "miasto": "Skoki",
+        "lat": 52.6725926,
+        "lon": 17.1531343
+    },
+    {
+        "miasto": "Kobylnica",
+        "lat": 54.4397259,
+        "lon": 16.9968076
+    },
+    {
+        "miasto": "Szczytna",
+        "lat": 50.4169281,
+        "lon": 16.4408185
+    },
+    {
+        "miasto": "Nowogród Bobrzański",
+        "lat": 51.7986474,
+        "lon": 15.2365032
+    },
+    {
+        "miasto": "Szczebrzeszyn",
+        "lat": 50.6946972,
+        "lon": 22.9786754
+    },
+    {
+        "miasto": "Budzyń",
+        "lat": 52.8909489,
+        "lon": 16.9835951
+    },
+    {
+        "miasto": "Bolków",
+        "lat": 50.9220033,
+        "lon": 16.100499
+    },
+    {
+        "miasto": "Jedlina-Zdrój",
+        "lat": 50.724228,
+        "lon": 16.337581
+    },
+    {
+        "miasto": "Wolin",
+        "lat": 53.843788,
+        "lon": 14.6157008
+    },
+    {
+        "miasto": "Tyczyn",
+        "lat": 49.9637919,
+        "lon": 22.0336719
+    },
+    {
+        "miasto": "Kuźnia Raciborska",
+        "lat": 50.2007002,
+        "lon": 18.3105735
+    },
+    {
+        "miasto": "Nowe Skalmierzyce",
+        "lat": 51.7109127,
+        "lon": 17.9943345
+    },
+    {
+        "miasto": "Krobia",
+        "lat": 51.7741006,
+        "lon": 16.9845547
+    },
+    {
+        "miasto": "Brześć Kujawski",
+        "lat": 52.6048164,
+        "lon": 18.9015463
+    },
+    {
+        "miasto": "Łaskarzew",
+        "lat": 51.7889644,
+        "lon": 21.5921883
+    },
+    {
+        "miasto": "Skaryszew",
+        "lat": 51.3105682,
+        "lon": 21.2523856
+    },
+    {
+        "miasto": "Bychawa",
+        "lat": 51.0152225,
+        "lon": 22.534535
+    },
+    {
+        "miasto": "Muszyna",
+        "lat": 49.3561684,
+        "lon": 20.8967477
+    },
+    {
+        "miasto": "Bierutów",
+        "lat": 51.1252738,
+        "lon": 17.5400351
+    },
+    {
+        "miasto": "Pilawa",
+        "lat": 51.9595452,
+        "lon": 21.5271524
+    },
+    {
+        "miasto": "Tarczyn",
+        "lat": 51.9802935,
+        "lon": 20.8339613
+    },
+    {
+        "miasto": "Sokołów Małopolski",
+        "lat": 50.2311643,
+        "lon": 22.1189272
+    },
+    {
+        "miasto": "Ciechanowiec",
+        "lat": 52.6787967,
+        "lon": 22.4991103
+    },
+    {
+        "miasto": "Żarki",
+        "lat": 50.6259563,
+        "lon": 19.3645599
+    },
+    {
+        "miasto": "Supraśl",
+        "lat": 53.2100391,
+        "lon": 23.3360728
+    },
+    {
+        "miasto": "Łabiszyn",
+        "lat": 52.9528653,
+        "lon": 17.9205877
+    },
+    {
+        "miasto": "Kamieniec Ząbkowicki",
+        "lat": 50.5229139,
+        "lon": 16.8736143
+    },
+    {
+        "miasto": "Chęciny",
+        "lat": 50.8000835,
+        "lon": 20.4622228
+    },
+    {
+        "miasto": "Biecz",
+        "lat": 49.7305351,
+        "lon": 21.249421
+    },
+    {
+        "miasto": "Zduny",
+        "lat": 51.6463268,
+        "lon": 17.377617
+    },
+    {
+        "miasto": "Kalwaria Zebrzydowska",
+        "lat": 49.8669482,
+        "lon": 19.6763089
+    },
+    {
+        "miasto": "Olszyna",
+        "lat": 51.0655505,
+        "lon": 15.3753102
+    },
+    {
+        "miasto": "Golina",
+        "lat": 52.24276,
+        "lon": 18.09534
+    },
+    {
+        "miasto": "Iłża",
+        "lat": 51.1624174,
+        "lon": 21.2374622
+    },
+    {
+        "miasto": "Kcynia",
+        "lat": 52.9917668,
+        "lon": 17.4873729
+    },
+    {
+        "miasto": "Karpacz",
+        "lat": 50.7747485,
+        "lon": 15.7542035
+    },
+    {
+        "miasto": "Ożarów",
+        "lat": 50.8864089,
+        "lon": 21.6656244
+    },
+    {
+        "miasto": "Słomniki",
+        "lat": 50.2403739,
+        "lon": 20.0811369
+    },
+    {
+        "miasto": "Piotrków Kujawski",
+        "lat": 52.55057,
+        "lon": 18.49872
+    },
+    {
+        "miasto": "Gąbin",
+        "lat": 52.39942,
+        "lon": 19.73072
+    },
+    {
+        "miasto": "Sława",
+        "lat": 51.8807001,
+        "lon": 16.0702499
+    },
+    {
+        "miasto": "Mrocza",
+        "lat": 53.2438673,
+        "lon": 17.6068949
+    },
+    {
+        "miasto": "Woźniki",
+        "lat": 50.5870812,
+        "lon": 19.0595251
+    },
+    {
+        "miasto": "Krzepice",
+        "lat": 50.9706951,
+        "lon": 18.7255158
+    },
+    {
+        "miasto": "Nowogrodziec",
+        "lat": 51.1971363,
+        "lon": 15.3987046
+    },
+    {
+        "miasto": "Żabno",
+        "lat": 50.1335155,
+        "lon": 20.8859257
+    },
+    {
+        "miasto": "Szczucin",
+        "lat": 50.3090256,
+        "lon": 21.075161
+    },
+    {
+        "miasto": "Kowalewo Pomorskie",
+        "lat": 53.1543137,
+        "lon": 18.8975473
+    },
+    {
+        "miasto": "Ruciane-Nida",
+        "lat": 53.65042,
+        "lon": 21.55982
+    },
+    {
+        "miasto": "Ogrodzieniec",
+        "lat": 50.4521463,
+        "lon": 19.5213629
+    },
+    {
+        "miasto": "Kalisz Pomorski",
+        "lat": 53.2981616,
+        "lon": 15.9059903
+    },
+    {
+        "miasto": "Jasień",
+        "lat": 51.7515442,
+        "lon": 15.0123351
+    },
+    {
+        "miasto": "Reszel",
+        "lat": 54.0482576,
+        "lon": 21.1421611
+    },
+    {
+        "miasto": "Rejowiec Fabryczny",
+        "lat": 51.1191844,
+        "lon": 23.2467333
+    },
+    {
+        "miasto": "Leśna",
+        "lat": 51.0241667,
+        "lon": 15.2636111
+    },
+    {
+        "miasto": "Jedlnia-Letnisko",
+        "lat": 51.4303531,
+        "lon": 21.3292505
+    },
+    {
+        "miasto": "Raciąż",
+        "lat": 52.7810586,
+        "lon": 20.118111
+    },
+    {
+        "miasto": "Nowy Staw",
+        "lat": 54.1342754,
+        "lon": 19.0086861
+    },
+    {
+        "miasto": "Krośniewice",
+        "lat": 52.2560639,
+        "lon": 19.1689326
+    },
+    {
+        "miasto": "Duszniki-Zdrój",
+        "lat": 50.4044249,
+        "lon": 16.3901528
+    },
+    {
+        "miasto": "Świeradów-Zdrój",
+        "lat": 50.9169692,
+        "lon": 15.3084749
+    },
+    {
+        "miasto": "Korsze",
+        "lat": 54.1707614,
+        "lon": 21.1442323
+    },
+    {
+        "miasto": "Szamocin",
+        "lat": 53.0290045,
+        "lon": 17.1217202
+    },
+    {
+        "miasto": "Bytom Odrzański",
+        "lat": 51.7308267,
+        "lon": 15.826918
+    },
+    {
+        "miasto": "Skała",
+        "lat": 50.2303769,
+        "lon": 19.853537
+    },
+    {
+        "miasto": "Ośno Lubuskie",
+        "lat": 52.455132,
+        "lon": 14.8682003
+    },
+    {
+        "miasto": "Kleczew",
+        "lat": 52.3707265,
+        "lon": 18.1779886
+    },
+    {
+        "miasto": "Nekla",
+        "lat": 52.3656249,
+        "lon": 17.4144598
+    },
+    {
+        "miasto": "Resko",
+        "lat": 53.7733969,
+        "lon": 15.4056058
+    },
+    {
+        "miasto": "Kargowa",
+        "lat": 52.0719225,
+        "lon": 15.8648044
+    },
+    {
+        "miasto": "Babimost",
+        "lat": 52.165312,
+        "lon": 15.8285175
+    },
+    {
+        "miasto": "Podkowa Leśna",
+        "lat": 52.111332,
+        "lon": 20.7610945
+    },
+    {
+        "miasto": "Lipiany",
+        "lat": 53.002904,
+        "lon": 14.970883
+    },
+    {
+        "miasto": "Czerwieńsk",
+        "lat": 52.0130585,
+        "lon": 15.4211463
+    },
+    {
+        "miasto": "Zawidów",
+        "lat": 51.0244974,
+        "lon": 15.0451501
+    },
+    {
+        "miasto": "Halinów",
+        "lat": 52.2258575,
+        "lon": 21.3529522
+    },
+    {
+        "miasto": "Mieroszów",
+        "lat": 50.6669858,
+        "lon": 16.1862044
+    },
+    {
+        "miasto": "Żelechów",
+        "lat": 51.8096724,
+        "lon": 21.895505
+    },
+    {
+        "miasto": "Płoty",
+        "lat": 53.8043384,
+        "lon": 15.2680368
+    },
+    {
+        "miasto": "Bobolice",
+        "lat": 53.954693,
+        "lon": 16.5884779
+    },
+    {
+        "miasto": "Czarny Dunajec",
+        "lat": 49.440493,
+        "lon": 19.8535612
+    },
+    {
+        "miasto": "Biała Piska",
+        "lat": 53.6113625,
+        "lon": 22.0581433
+    },
+    {
+        "miasto": "Jabłonowo Pomorskie",
+        "lat": 53.387984,
+        "lon": 19.1527034
+    },
+    {
+        "miasto": "Janowiec Wielkopolski",
+        "lat": 52.7567264,
+        "lon": 17.4887698
+    },
+    {
+        "miasto": "Mrozy",
+        "lat": 52.1655506,
+        "lon": 21.8001682
+    },
+    {
+        "miasto": "Tułowice",
+        "lat": 50.5954195,
+        "lon": 17.6533063
+    },
+    {
+        "miasto": "Pruchnik",
+        "lat": 49.9061358,
+        "lon": 22.5160585
+    },
+    {
+        "miasto": "Górowo Iławeckie",
+        "lat": 54.2885534,
+        "lon": 20.4904672
+    },
+    {
+        "miasto": "Mirsk",
+        "lat": 50.9721836,
+        "lon": 15.3857926
+    },
+    {
+        "miasto": "Okonek",
+        "lat": 53.5347646,
+        "lon": 16.8516192
+    },
+    {
+        "miasto": "Nałęczów",
+        "lat": 51.2876064,
+        "lon": 22.214792
+    },
+    {
+        "miasto": "Rakoniewice",
+        "lat": 52.1393485,
+        "lon": 16.2738532
+    },
+    {
+        "miasto": "Zator",
+        "lat": 49.9963053,
+        "lon": 19.4376782
+    },
+    {
+        "miasto": "Iłowa",
+        "lat": 51.5006828,
+        "lon": 15.1984599
+    },
+    {
+        "miasto": "Strumień",
+        "lat": 49.9171995,
+        "lon": 18.7634908
+    },
+    {
+        "miasto": "Rymanów",
+        "lat": 49.576131,
+        "lon": 21.8676433
+    },
+    {
+        "miasto": "Drzewica",
+        "lat": 51.4508384,
+        "lon": 20.4773617
+    },
+    {
+        "miasto": "Prochowice",
+        "lat": 51.273422,
+        "lon": 16.3644321
+    },
+    {
+        "miasto": "Toszek",
+        "lat": 50.4551063,
+        "lon": 18.5180604
+    },
+    {
+        "miasto": "Opatówek",
+        "lat": 51.7394437,
+        "lon": 18.2137254
+    },
+    {
+        "miasto": "Nowe Miasto nad Pilicą",
+        "lat": 51.616692,
+        "lon": 20.5796171
+    },
+    {
+        "miasto": "Brańsk",
+        "lat": 52.7454145,
+        "lon": 22.8328169
+    },
+    {
+        "miasto": "Rzgów",
+        "lat": 51.6627785,
+        "lon": 19.4908887
+    },
+    {
+        "miasto": "Krajenka",
+        "lat": 53.2970851,
+        "lon": 16.9909514
+    },
+    {
+        "miasto": "Barwice",
+        "lat": 53.7445649,
+        "lon": 16.3549399
+    },
+    {
+        "miasto": "Radomyśl Wielki",
+        "lat": 50.1963674,
+        "lon": 21.2761596
+    },
+    {
+        "miasto": "Wojcieszów",
+        "lat": 50.9559192,
+        "lon": 15.9283008
+    },
+    {
+        "miasto": "Skórcz",
+        "lat": 53.7945454,
+        "lon": 18.5174785
+    },
+    {
+        "miasto": "Złoczew",
+        "lat": 51.4180515,
+        "lon": 18.6060256
+    },
+    {
+        "miasto": "Dobrodzień",
+        "lat": 50.7288597,
+        "lon": 18.444336
+    },
+    {
+        "miasto": "Chmielnik",
+        "lat": 50.6145952,
+        "lon": 20.7510406
+    },
+    {
+        "miasto": "Małomice",
+        "lat": 51.5550002,
+        "lon": 15.4472908
+    },
+    {
+        "miasto": "Skępe",
+        "lat": 52.8671562,
+        "lon": 19.3465204
+    },
+    {
+        "miasto": "Miłosław",
+        "lat": 52.2023105,
+        "lon": 17.4892236
+    },
+    {
+        "miasto": "Byczyna",
+        "lat": 51.1142355,
+        "lon": 18.2143288
+    },
+    {
+        "miasto": "Mikołajki",
+        "lat": 53.7981816,
+        "lon": 21.5772462
+    },
+    {
+        "miasto": "Mieszkowice",
+        "lat": 52.785412,
+        "lon": 14.4954296
+    },
+    {
+        "miasto": "Stryków",
+        "lat": 51.9009447,
+        "lon": 19.6036969
+    },
+    {
+        "miasto": "Ujście",
+        "lat": 53.0531546,
+        "lon": 16.7324266
+    },
+    {
+        "miasto": "Małogoszcz",
+        "lat": 50.8123487,
+        "lon": 20.2648324
+    },
+    {
+        "miasto": "Maszewo",
+        "lat": 53.496222,
+        "lon": 15.0613549
+    },
+    {
+        "miasto": "Szczekociny",
+        "lat": 50.6259216,
+        "lon": 19.8194681
+    },
+    {
+        "miasto": "Sompolno",
+        "lat": 52.3884355,
+        "lon": 18.5030075
+    },
+    {
+        "miasto": "Kowal",
+        "lat": 52.531873,
+        "lon": 19.1446247
+    },
+    {
+        "miasto": "Kępice",
+        "lat": 54.2427792,
+        "lon": 16.8896705
+    },
+    {
+        "miasto": "Alwernia",
+        "lat": 50.0690434,
+        "lon": 19.5396737
+    },
+    {
+        "miasto": "Kazimierz Dolny",
+        "lat": 51.3220058,
+        "lon": 21.947372
+    },
+    {
+        "miasto": "Kobylin",
+        "lat": 51.7163621,
+        "lon": 17.2247584
+    },
+    {
+        "miasto": "Kolonowskie",
+        "lat": 50.6528574,
+        "lon": 18.3831071
+    },
+    {
+        "miasto": "Wilamowice",
+        "lat": 49.9167395,
+        "lon": 19.1524707
+    },
+    {
+        "miasto": "Myszyniec",
+        "lat": 53.3831962,
+        "lon": 21.3420723
+    },
+    {
+        "miasto": "Przedbórz",
+        "lat": 51.0868077,
+        "lon": 19.8744414
+    },
+    {
+        "miasto": "Gołańcz",
+        "lat": 52.9431644,
+        "lon": 17.2999756
+    },
+    {
+        "miasto": "Wojnicz",
+        "lat": 49.9573496,
+        "lon": 20.8364048
+    },
+    {
+        "miasto": "Zakroczym",
+        "lat": 52.4333534,
+        "lon": 20.6116771
+    },
+    {
+        "miasto": "Szczuczyn",
+        "lat": 53.5629982,
+        "lon": 22.2855495
+    },
+    {
+        "miasto": "Ślesin",
+        "lat": 52.37082,
+        "lon": 18.30593
+    },
+    {
+        "miasto": "Tarnogród",
+        "lat": 50.361309,
+        "lon": 22.7419384
+    },
+    {
+        "miasto": "Bobowa",
+        "lat": 49.7130028,
+        "lon": 20.9576054
+    },
+    {
+        "miasto": "Miejska Górka",
+        "lat": 51.6552093,
+        "lon": 16.9561451
+    },
+    {
+        "miasto": "Łasin",
+        "lat": 53.5196526,
+        "lon": 19.0870311
+    },
+    {
+        "miasto": "Łeba",
+        "lat": 54.7585207,
+        "lon": 17.555417
+    },
+    {
+        "miasto": "Mirosławiec",
+        "lat": 53.3415106,
+        "lon": 16.0881475
+    },
+    {
+        "miasto": "Tuliszków",
+        "lat": 52.0770973,
+        "lon": 18.294932
+    },
+    {
+        "miasto": "Uniejów",
+        "lat": 51.9741302,
+        "lon": 18.793245
+    },
+    {
+        "miasto": "Wielbark",
+        "lat": 53.3984244,
+        "lon": 20.9462724
+    },
+    {
+        "miasto": "Piekoszów",
+        "lat": 50.881422,
+        "lon": 20.4642464
+    },
+    {
+        "miasto": "Chociwel",
+        "lat": 53.4663949,
+        "lon": 15.3314436
+    },
+    {
+        "miasto": "Biała Rawska",
+        "lat": 51.8075978,
+        "lon": 20.4720942
+    },
+    {
+        "miasto": "Dobiegniew",
+        "lat": 52.9667749,
+        "lon": 15.7548055
+    },
+    {
+        "miasto": "Margonin",
+        "lat": 52.9732912,
+        "lon": 17.0948899
+    },
+    {
+        "miasto": "Książ Wielkopolski",
+        "lat": 52.0623513,
+        "lon": 17.2395591
+    },
+    {
+        "miasto": "Pyzdry",
+        "lat": 52.1694332,
+        "lon": 17.687134
+    },
+    {
+        "miasto": "Krasnobród",
+        "lat": 50.5460046,
+        "lon": 23.2115593
+    },
+    {
+        "miasto": "Warta",
+        "lat": 51.1266841,
+        "lon": 18.7116319
+    },
+    {
+        "miasto": "Dobrzyca",
+        "lat": 51.8668166,
+        "lon": 17.6026387
+    },
+    {
+        "miasto": "Jeziorany",
+        "lat": 53.9768604,
+        "lon": 20.7459137
+    },
+    {
+        "miasto": "Lwówek",
+        "lat": 52.4489307,
+        "lon": 16.1803554
+    },
+    {
+        "miasto": "Poniec",
+        "lat": 51.7650386,
+        "lon": 16.8059899
+    },
+    {
+        "miasto": "Chorzele",
+        "lat": 53.2610476,
+        "lon": 20.8978631
+    },
+    {
+        "miasto": "Kańczuga",
+        "lat": 49.9843732,
+        "lon": 22.4131838
+    },
+    {
+        "miasto": "Kock",
+        "lat": 51.6383917,
+        "lon": 22.4478158
+    },
+    {
+        "miasto": "Rydzyna",
+        "lat": 51.7863742,
+        "lon": 16.6673223
+    },
+    {
+        "miasto": "Polanów",
+        "lat": 54.11921,
+        "lon": 16.68725
+    },
+    {
+        "miasto": "Oleszyce",
+        "lat": 50.1682003,
+        "lon": 23.0314836
+    },
+    {
+        "miasto": "Baborów",
+        "lat": 50.1563566,
+        "lon": 17.9859393
+    },
+    {
+        "miasto": "Radoszyce",
+        "lat": 51.0736699,
+        "lon": 20.2597677
+    },
+    {
+        "miasto": "Bojanowo",
+        "lat": 51.7070018,
+        "lon": 16.7487692
+    },
+    {
+        "miasto": "Pruszcz",
+        "lat": 54.2576476,
+        "lon": 18.650104
+    },
+    {
+        "miasto": "Ćmielów",
+        "lat": 50.8918364,
+        "lon": 21.5100875
+    },
+    {
+        "miasto": "Glinojeck",
+        "lat": 52.819174,
+        "lon": 20.2862655
+    },
+    {
+        "miasto": "Zwierzyniec",
+        "lat": 50.6145878,
+        "lon": 22.9706317
+    },
+    {
+        "miasto": "Zaklików",
+        "lat": 50.7554368,
+        "lon": 22.1020214
+    },
+    {
+        "miasto": "Kaczory",
+        "lat": 53.1020938,
+        "lon": 16.8843061
+    },
+    {
+        "miasto": "Hel",
+        "lat": 54.6237094,
+        "lon": 18.7275009
+    },
+    {
+        "miasto": "Mielno",
+        "lat": 54.2560766,
+        "lon": 16.0520587
+    },
+    {
+        "miasto": "Michałowo",
+        "lat": 53.0328933,
+        "lon": 23.6066858
+    },
+    {
+        "miasto": "Łobżenica",
+        "lat": 53.2602878,
+        "lon": 17.2548401
+    },
+    {
+        "miasto": "Gościno",
+        "lat": 54.0515795,
+        "lon": 15.6534004
+    },
+    {
+        "miasto": "Daleszyce",
+        "lat": 50.801991,
+        "lon": 20.8066334
+    },
+    {
+        "miasto": "Sulmierzyce",
+        "lat": 51.61613,
+        "lon": 17.5345008
+    },
+    {
+        "miasto": "Nowy Wiśnicz",
+        "lat": 49.9152667,
+        "lon": 20.4621677
+    },
+    {
+        "miasto": "Zagórów",
+        "lat": 52.16899,
+        "lon": 17.90016
+    },
+    {
+        "miasto": "Radłów",
+        "lat": 50.0830887,
+        "lon": 20.8476617
+    },
+    {
+        "miasto": "Kunów",
+        "lat": 50.9541063,
+        "lon": 21.278823
+    },
+    {
+        "miasto": "Gozdnica",
+        "lat": 51.4533841,
+        "lon": 15.0815671
+    },
+    {
+        "miasto": "Kałuszyn",
+        "lat": 52.2087832,
+        "lon": 21.811881
+    },
+    {
+        "miasto": "Brzostek",
+        "lat": 49.8784697,
+        "lon": 21.411865
+    },
+    {
+        "miasto": "Niemcza",
+        "lat": 50.7163426,
+        "lon": 16.8350398
+    },
+    {
+        "miasto": "Ryn",
+        "lat": 53.9386839,
+        "lon": 21.5440643
+    },
+    {
+        "miasto": "Ryglice",
+        "lat": 49.8783327,
+        "lon": 21.1380371
+    },
+    {
+        "miasto": "Lubraniec",
+        "lat": 52.543083,
+        "lon": 18.8315832
+    },
+    {
+        "miasto": "Cybinka",
+        "lat": 52.1940293,
+        "lon": 14.7968841
+    },
+    {
+        "miasto": "Knyszyn",
+        "lat": 53.3122442,
+        "lon": 22.9200387
+    },
+    {
+        "miasto": "Czarna Woda",
+        "lat": 53.8441983,
+        "lon": 18.0984293
+    },
+    {
+        "miasto": "Węgliniec",
+        "lat": 51.2871203,
+        "lon": 15.2241355
+    },
+    {
+        "miasto": "Recz",
+        "lat": 53.2601536,
+        "lon": 15.5467648
+    },
+    {
+        "miasto": "Nowe Miasteczko",
+        "lat": 51.6908103,
+        "lon": 15.7311977
+    },
+    {
+        "miasto": "Drobin",
+        "lat": 52.7377981,
+        "lon": 19.9893151
+    },
+    {
+        "miasto": "Kurów",
+        "lat": 51.3888553,
+        "lon": 22.1862143
+    },
+    {
+        "miasto": "Węgorzyno",
+        "lat": 53.5411822,
+        "lon": 15.5602398
+    },
+    {
+        "miasto": "Kamieńsk",
+        "lat": 51.204172,
+        "lon": 19.4970714
+    },
+    {
+        "miasto": "Różan",
+        "lat": 52.8892595,
+        "lon": 21.399349
+    },
+    {
+        "miasto": "Jastarnia",
+        "lat": 54.702764,
+        "lon": 18.6712892
+    },
+    {
+        "miasto": "Zaniemyśl",
+        "lat": 52.1551661,
+        "lon": 17.1618234
+    },
+    {
+        "miasto": "Czerniejewo",
+        "lat": 52.4296119,
+        "lon": 17.489398
+    },
+    {
+        "miasto": "Prószków",
+        "lat": 50.5786696,
+        "lon": 17.8699852
+    },
+    {
+        "miasto": "Wąsosz",
+        "lat": 51.5638134,
+        "lon": 16.6925804
+    },
+    {
+        "miasto": "Leśnica",
+        "lat": 50.4285562,
+        "lon": 18.1849929
+    },
+    {
+        "miasto": "Stepnica",
+        "lat": 53.632788,
+        "lon": 15.0003637
+    },
+    {
+        "miasto": "Wysoka",
+        "lat": 53.1829333,
+        "lon": 17.0797137
+    },
+    {
+        "miasto": "Golczewo",
+        "lat": 53.8241081,
+        "lon": 14.9773396
+    },
+    {
+        "miasto": "Kłecko",
+        "lat": 52.6324247,
+        "lon": 17.4282911
+    },
+    {
+        "miasto": "Olsztyn",
+        "lat": 53.776644,
+        "lon": 20.4777531
+    },
+    {
+        "miasto": "Zabłudów",
+        "lat": 53.0147671,
+        "lon": 23.3379526
+    },
+    {
+        "miasto": "Ciężkowice",
+        "lat": 49.786464,
+        "lon": 20.9737542
+    },
+    {
+        "miasto": "Czyżew",
+        "lat": 52.7975512,
+        "lon": 22.3123475
+    },
+    {
+        "miasto": "Izbica Kujawska",
+        "lat": 52.41925,
+        "lon": 18.76435
+    },
+    {
+        "miasto": "Osieczna",
+        "lat": 51.9033938,
+        "lon": 16.6762108
+    },
+    {
+        "miasto": "Wąchock",
+        "lat": 51.073812,
+        "lon": 21.0116897
+    },
+    {
+        "miasto": "Borek Wielkopolski",
+        "lat": 51.916153,
+        "lon": 17.2425955
+    },
+    {
+        "miasto": "Gorzów Śląski",
+        "lat": 51.0281551,
+        "lon": 18.4222682
+    },
+    {
+        "miasto": "Piaski",
+        "lat": 51.1378115,
+        "lon": 22.8475225
+    },
+    {
+        "miasto": "Mieścisko",
+        "lat": 52.7436655,
+        "lon": 17.3294668
+    },
+    {
+        "miasto": "Miłomłyn",
+        "lat": 53.7634,
+        "lon": 19.8413501
+    },
+    {
+        "miasto": "Pieniężno",
+        "lat": 54.2385662,
+        "lon": 20.1258163
+    },
+    {
+        "miasto": "Złoty Stok",
+        "lat": 50.4429267,
+        "lon": 16.8746559
+    },
+    {
+        "miasto": "Wyszogród",
+        "lat": 52.3883717,
+        "lon": 20.1913084
+    },
+    {
+        "miasto": "Pasym",
+        "lat": 53.6521615,
+        "lon": 20.7917422
+    },
+    {
+        "miasto": "Świątniki Górne",
+        "lat": 49.9346365,
+        "lon": 19.9524965
+    },
+    {
+        "miasto": "Miłakowo",
+        "lat": 54.0101675,
+        "lon": 20.0711213
+    },
+    {
+        "miasto": "Obrzycko",
+        "lat": 52.7020002,
+        "lon": 16.5301048
+    },
+    {
+        "miasto": "Pełczyce",
+        "lat": 53.04218,
+        "lon": 15.30591
+    },
+    {
+        "miasto": "Torzym",
+        "lat": 52.3138586,
+        "lon": 15.0828279
+    },
+    {
+        "miasto": "Koziegłowy",
+        "lat": 50.5978707,
+        "lon": 19.1615203
+    },
+    {
+        "miasto": "Tolkmicko",
+        "lat": 54.3201802,
+        "lon": 19.5270187
+    },
+    {
+        "miasto": "Rychwał",
+        "lat": 52.0706234,
+        "lon": 18.1668295
+    },
+    {
+        "miasto": "Międzylesie",
+        "lat": 50.1480131,
+        "lon": 16.6669348
+    },
+    {
+        "miasto": "Koprzywnica",
+        "lat": 50.5932218,
+        "lon": 21.5847266
+    },
+    {
+        "miasto": "Stoczek Łukowski",
+        "lat": 51.9617406,
+        "lon": 21.9697078
+    },
+    {
+        "miasto": "Tychowo",
+        "lat": 53.92866,
+        "lon": 16.25668
+    },
+    {
+        "miasto": "Cegłów",
+        "lat": 52.1470172,
+        "lon": 21.7381713
+    },
+    {
+        "miasto": "Kamień Krajeński",
+        "lat": 53.5333203,
+        "lon": 17.5199143
+    },
+    {
+        "miasto": "Annopol",
+        "lat": 50.8851655,
+        "lon": 21.8550836
+    },
+    {
+        "miasto": "Józefów",
+        "lat": 50.4808298,
+        "lon": 23.0540591
+    },
+    {
+        "miasto": "Międzybórz",
+        "lat": 51.397711,
+        "lon": 17.6650165
+    },
+    {
+        "miasto": "Bardo",
+        "lat": 50.50676,
+        "lon": 16.7402382
+    },
+    {
+        "miasto": "Siennica",
+        "lat": 52.0915526,
+        "lon": 21.6193996
+    },
+    {
+        "miasto": "Dziwnów",
+        "lat": 54.0277746,
+        "lon": 14.7603921
+    },
+    {
+        "miasto": "Czchów",
+        "lat": 49.8339446,
+        "lon": 20.6731487
+    },
+    {
+        "miasto": "Wolbórz",
+        "lat": 51.5036311,
+        "lon": 19.830319
+    },
+    {
+        "miasto": "Radków",
+        "lat": 50.5042182,
+        "lon": 16.401351
+    },
+    {
+        "miasto": "Wiązów",
+        "lat": 50.8138794,
+        "lon": 17.2017238
+    },
+    {
+        "miasto": "Biała",
+        "lat": 50.3853609,
+        "lon": 17.6599107
+    },
+    {
+        "miasto": "Łęknica",
+        "lat": 51.538237,
+        "lon": 14.7445378
+    },
+    {
+        "miasto": "Trzciel",
+        "lat": 52.365166,
+        "lon": 15.873213
+    },
+    {
+        "miasto": "Lututów",
+        "lat": 51.3712494,
+        "lon": 18.4346007
+    },
+    {
+        "miasto": "Drawno",
+        "lat": 53.2189468,
+        "lon": 15.7580084
+    },
+    {
+        "miasto": "Dobrzany",
+        "lat": 53.3582754,
+        "lon": 15.4299315
+    },
+    {
+        "miasto": "Człopa",
+        "lat": 53.0884595,
+        "lon": 16.1201069
+    },
+    {
+        "miasto": "Biały Bór",
+        "lat": 53.8987414,
+        "lon": 16.8377275
+    },
+    {
+        "miasto": "Bisztynek",
+        "lat": 54.0866828,
+        "lon": 20.908828
+    },
+    {
+        "miasto": "Prusice",
+        "lat": 51.3707663,
+        "lon": 16.9626816
+    },
+    {
+        "miasto": "Krynki",
+        "lat": 53.2644419,
+        "lon": 23.7726182
+    },
+    {
+        "miasto": "Mogielnica",
+        "lat": 51.6929526,
+        "lon": 20.723371
+    },
+    {
+        "miasto": "Trzcińsko-Zdrój",
+        "lat": 52.9660381,
+        "lon": 14.6075982
+    },
+    {
+        "miasto": "Lubycza Królewska",
+        "lat": 50.3411612,
+        "lon": 23.5196564
+    },
+    {
+        "miasto": "Miękinia",
+        "lat": 51.190964,
+        "lon": 16.7386851
+    },
+    {
+        "miasto": "Piszczac",
+        "lat": 51.9804862,
+        "lon": 23.3776226
+    },
+    {
+        "miasto": "Nowogród",
+        "lat": 53.2280804,
+        "lon": 21.8797908
+    },
+    {
+        "miasto": "Raszków",
+        "lat": 51.7182066,
+        "lon": 17.7277057
+    },
+    {
+        "miasto": "Błażowa",
+        "lat": 49.8856022,
+        "lon": 22.1008013
+    },
+    {
+        "miasto": "Bodzentyn",
+        "lat": 50.9409927,
+        "lon": 20.9573478
+    },
+    {
+        "miasto": "Żerków",
+        "lat": 52.0687117,
+        "lon": 17.5633599
+    },
+    {
+        "miasto": "Lipsk",
+        "lat": 53.7335414,
+        "lon": 23.4037394
+    },
+    {
+        "miasto": "Kikół",
+        "lat": 52.912342,
+        "lon": 19.1203393
+    },
+    {
+        "miasto": "Pogorzela",
+        "lat": 51.8224142,
+        "lon": 17.2310362
+    },
+    {
+        "miasto": "Końskowola",
+        "lat": 51.4091024,
+        "lon": 22.0517983
+    },
+    {
+        "miasto": "Suchowola",
+        "lat": 53.578557,
+        "lon": 23.1058224
+    },
+    {
+        "miasto": "Zalewo",
+        "lat": 53.8458768,
+        "lon": 19.606118
+    },
+    {
+        "miasto": "Dobra",
+        "lat": 51.9161774,
+        "lon": 18.6159693
+    },
+    {
+        "miasto": "Lubniewice",
+        "lat": 52.5119594,
+        "lon": 15.2441003
+    },
+    {
+        "miasto": "Szepietowo",
+        "lat": 52.8712982,
+        "lon": 22.5474331
+    },
+    {
+        "miasto": "Frombork",
+        "lat": 54.3583633,
+        "lon": 19.6823701
+    },
+    {
+        "miasto": "Sieniawa",
+        "lat": 50.1780728,
+        "lon": 22.6102155
+    },
+    {
+        "miasto": "Kisielice",
+        "lat": 53.6076054,
+        "lon": 19.2593923
+    },
+    {
+        "miasto": "Stawiski",
+        "lat": 53.3798382,
+        "lon": 22.1548937
+    },
+    {
+        "miasto": "Krzanowice",
+        "lat": 50.017931,
+        "lon": 18.1216249
+    },
+    {
+        "miasto": "Świerzawa",
+        "lat": 51.0150774,
+        "lon": 15.8920701
+    },
+    {
+        "miasto": "Błaszki",
+        "lat": 51.6525206,
+        "lon": 18.4333114
+    },
+    {
+        "miasto": "Rejowiec",
+        "lat": 51.0945453,
+        "lon": 23.2832851
+    },
+    {
+        "miasto": "Sośnicowice",
+        "lat": 50.2722844,
+        "lon": 18.5298588
+    },
+    {
+        "miasto": "Osiek",
+        "lat": 50.5194515,
+        "lon": 21.4425619
+    },
+    {
+        "miasto": "Narol",
+        "lat": 50.3488112,
+        "lon": 23.3274426
+    },
+    {
+        "miasto": "Kosów Lacki",
+        "lat": 52.5960805,
+        "lon": 22.1471764
+    },
+    {
+        "miasto": "Dukla",
+        "lat": 49.55636,
+        "lon": 21.6847523
+    },
+    {
+        "miasto": "Łaszczów",
+        "lat": 50.532615,
+        "lon": 23.7263929
+    },
+    {
+        "miasto": "Ostrów Lubelski",
+        "lat": 51.4969068,
+        "lon": 22.8560394
+    },
+    {
+        "miasto": "Dobrzyń nad Wisłą",
+        "lat": 52.6374518,
+        "lon": 19.3213714
+    },
+    {
+        "miasto": "Sochocin",
+        "lat": 52.6898865,
+        "lon": 20.4707992
+    },
+    {
+        "miasto": "Grabów nad Prosną",
+        "lat": 51.5060515,
+        "lon": 18.1188808
+    },
+    {
+        "miasto": "Sępopol",
+        "lat": 54.2678744,
+        "lon": 21.0144242
+    },
+    {
+        "miasto": "Jutrosin",
+        "lat": 51.6536197,
+        "lon": 17.1689896
+    },
+    {
+        "miasto": "Ostroróg",
+        "lat": 52.6267433,
+        "lon": 16.4491743
+    },
+    {
+        "miasto": "Dobre",
+        "lat": 52.32171,
+        "lon": 21.67852
+    },
+    {
+        "miasto": "Ujazd",
+        "lat": 51.5980362,
+        "lon": 19.9218143
+    },
+    {
+        "miasto": "Tykocin",
+        "lat": 53.207646,
+        "lon": 22.7730188
+    },
+    {
+        "miasto": "Przecław",
+        "lat": 50.1939186,
+        "lon": 21.4798564
+    },
+    {
+        "miasto": "Koźminek",
+        "lat": 51.798301,
+        "lon": 18.3383583
+    },
+    {
+        "miasto": "Tyszowce",
+        "lat": 50.6172008,
+        "lon": 23.6982172
+    },
+    {
+        "miasto": "Cieszanów",
+        "lat": 50.2454329,
+        "lon": 23.1301265
+    },
+    {
+        "miasto": "Otyń",
+        "lat": 51.8473213,
+        "lon": 15.7104
+    },
+    {
+        "miasto": "Lubomierz",
+        "lat": 51.0124569,
+        "lon": 15.51022
+    },
+    {
+        "miasto": "Radzyń Chełmiński",
+        "lat": 53.385006,
+        "lon": 18.9351906
+    },
+    {
+        "miasto": "Tuczno",
+        "lat": 53.194419,
+        "lon": 16.1548235
+    },
+    {
+        "miasto": "Morawica",
+        "lat": 50.7478149,
+        "lon": 20.618127
+    },
+    {
+        "miasto": "Ińsko",
+        "lat": 53.435721,
+        "lon": 15.548315
+    },
+    {
+        "miasto": "Nieszawa",
+        "lat": 52.8334518,
+        "lon": 18.9011049
+    },
+    {
+        "miasto": "Klimontów",
+        "lat": 50.6563871,
+        "lon": 21.4506186
+    },
+    {
+        "miasto": "Szadek",
+        "lat": 51.69175,
+        "lon": 18.97703
+    },
+    {
+        "miasto": "Pilica",
+        "lat": 51.2508597,
+        "lon": 19.9251145
+    },
+    {
+        "miasto": "Drohiczyn",
+        "lat": 52.396648,
+        "lon": 22.658812
+    },
+    {
+        "miasto": "Brok",
+        "lat": 52.6989287,
+        "lon": 21.8601815
+    },
+    {
+        "miasto": "Kamionka",
+        "lat": 51.4711228,
+        "lon": 22.4644249
+    },
+    {
+        "miasto": "Goniądz",
+        "lat": 53.489222,
+        "lon": 22.7323721
+    },
+    {
+        "miasto": "Sanniki",
+        "lat": 52.33089,
+        "lon": 19.86693
+    },
+    {
+        "miasto": "Oleśnica",
+        "lat": 51.2102428,
+        "lon": 17.382947
+    },
+    {
+        "miasto": "Urzędów",
+        "lat": 50.9939046,
+        "lon": 22.1435756
+    },
+    {
+        "miasto": "Bieżuń",
+        "lat": 52.9617996,
+        "lon": 19.8899936
+    },
+    {
+        "miasto": "Dąbie",
+        "lat": 52.0871691,
+        "lon": 18.8220738
+    },
+    {
+        "miasto": "Korfantów",
+        "lat": 50.4879782,
+        "lon": 17.5984184
+    },
+    {
+        "miasto": "Mikstat",
+        "lat": 51.5315251,
+        "lon": 17.9710681
+    },
+    {
+        "miasto": "Chodecz",
+        "lat": 52.4051735,
+        "lon": 19.0272596
+    },
+    {
+        "miasto": "Izbica",
+        "lat": 50.8927773,
+        "lon": 23.1587974
+    },
+    {
+        "miasto": "Jedwabne",
+        "lat": 53.2867308,
+        "lon": 22.3021413
+    },
+    {
+        "miasto": "Młynary",
+        "lat": 54.1876231,
+        "lon": 19.7229376
+    },
+    {
+        "miasto": "Krzywiń",
+        "lat": 51.962928,
+        "lon": 16.819295
+    },
+    {
+        "miasto": "Wielichowo",
+        "lat": 52.1182673,
+        "lon": 16.3521384
+    },
+    {
+        "miasto": "Rozprza",
+        "lat": 51.3017158,
+        "lon": 19.6447455
+    },
+    {
+        "miasto": "Moryń",
+        "lat": 52.8558027,
+        "lon": 14.3968046
+    },
+    {
+        "miasto": "Chocz",
+        "lat": 51.9752124,
+        "lon": 17.8706873
+    },
+    {
+        "miasto": "Nowe Brzesko",
+        "lat": 50.1322823,
+        "lon": 20.3767203
+    },
+    {
+        "miasto": "Mordy",
+        "lat": 52.2112989,
+        "lon": 22.5170678
+    },
+    {
+        "miasto": "Lutomiersk",
+        "lat": 51.7550121,
+        "lon": 19.2120994
+    },
+    {
+        "miasto": "Zawichost",
+        "lat": 50.8074312,
+        "lon": 21.8523835
+    },
+    {
+        "miasto": "Zakliczyn",
+        "lat": 49.8564352,
+        "lon": 20.8086652
+    },
+    {
+        "miasto": "Wleń",
+        "lat": 51.0168814,
+        "lon": 15.6744645
+    },
+    {
+        "miasto": "Dolsk",
+        "lat": 51.9866,
+        "lon": 17.0653695
+    },
+    {
+        "miasto": "Piątek",
+        "lat": 52.0689883,
+        "lon": 19.4799726
+    },
+    {
+        "miasto": "Iwonicz-Zdrój",
+        "lat": 49.5696688,
+        "lon": 21.7932328
+    },
+    {
+        "miasto": "Ujazd",
+        "lat": 51.5980362,
+        "lon": 19.9218143
+    },
+    {
+        "miasto": "Nowe Miasto",
+        "lat": 52.6563159,
+        "lon": 20.6307362
+    },
+    {
+        "miasto": "Przedecz",
+        "lat": 52.3341735,
+        "lon": 18.8985119
+    },
+    {
+        "miasto": "Łagów",
+        "lat": 50.7754877,
+        "lon": 21.0839837
+    },
+    {
+        "miasto": "Strzeleczki",
+        "lat": 50.4594894,
+        "lon": 17.854778
+    },
+    {
+        "miasto": "Lubowidz",
+        "lat": 53.1216748,
+        "lon": 19.8407986
+    },
+    {
+        "miasto": "Wiskitki",
+        "lat": 52.0868993,
+        "lon": 20.3832461
+    },
+    {
+        "miasto": "Cedynia",
+        "lat": 52.8784024,
+        "lon": 14.2031446
+    },
+    {
+        "miasto": "Maciejowice",
+        "lat": 51.692631,
+        "lon": 21.5531323
+    },
+    {
+        "miasto": "Łopuszno",
+        "lat": 50.948616,
+        "lon": 20.2505964
+    },
+    {
+        "miasto": "Modliborzyce",
+        "lat": 50.7534467,
+        "lon": 22.3291714
+    },
+    {
+        "miasto": "Rajgród",
+        "lat": 53.7304739,
+        "lon": 22.6976173
+    },
+    {
+        "miasto": "Suchań",
+        "lat": 53.2799427,
+        "lon": 15.3188331
+    },
+    {
+        "miasto": "Gąsawa",
+        "lat": 52.76856,
+        "lon": 17.75631
+    },
+    {
+        "miasto": "Baranów Sandomierski",
+        "lat": 50.4994982,
+        "lon": 21.5417887
+    },
+    {
+        "miasto": "Górzno",
+        "lat": 53.1980846,
+        "lon": 19.6445713
+    },
+    {
+        "miasto": "Jaraczewo",
+        "lat": 51.9689115,
+        "lon": 17.2981142
+    },
+    {
+        "miasto": "Ulanów",
+        "lat": 50.4904352,
+        "lon": 22.2625676
+    },
+    {
+        "miasto": "Kołaczyce",
+        "lat": 49.8076605,
+        "lon": 21.4340516
+    },
+    {
+        "miasto": "Stawiszyn",
+        "lat": 51.9182364,
+        "lon": 18.1115413
+    },
+    {
+        "miasto": "Latowicz",
+        "lat": 52.0262727,
+        "lon": 21.8075415
+    },
+    {
+        "miasto": "Rychtal",
+        "lat": 51.1448363,
+        "lon": 17.848494
+    },
+    {
+        "miasto": "Frampol",
+        "lat": 50.671832,
+        "lon": 22.6698666
+    },
+    {
+        "miasto": "Siedliszcze",
+        "lat": 51.1946235,
+        "lon": 23.1648455
+    },
+    {
+        "miasto": "Osjaków",
+        "lat": 51.2888829,
+        "lon": 18.7912573
+    },
+    {
+        "miasto": "Gowarczów",
+        "lat": 51.2784974,
+        "lon": 20.438142
+    },
+    {
+        "miasto": "Czemierniki",
+        "lat": 51.6743703,
+        "lon": 22.6380937
+    },
+    {
+        "miasto": "Dobra",
+        "lat": 51.9161774,
+        "lon": 18.6159693
+    },
+    {
+        "miasto": "Lubień Kujawski",
+        "lat": 52.40736,
+        "lon": 19.16018
+    },
+    {
+        "miasto": "Nowa Słupia",
+        "lat": 50.8640377,
+        "lon": 21.0907296
+    },
+    {
+        "miasto": "Pierzchnica",
+        "lat": 50.6974266,
+        "lon": 20.7544258
+    },
+    {
+        "miasto": "Jeżów",
+        "lat": 51.813452,
+        "lon": 19.9687952
+    },
+    {
+        "miasto": "Szlichtyngowa",
+        "lat": 51.7140748,
+        "lon": 16.2445989
+    },
+    {
+        "miasto": "Iwaniska",
+        "lat": 50.7314289,
+        "lon": 21.281111
+    },
+    {
+        "miasto": "Skalbmierz",
+        "lat": 50.3170888,
+        "lon": 20.3996843
+    },
+    {
+        "miasto": "Jastrząb",
+        "lat": 51.2468739,
+        "lon": 20.9488245
+    },
+    {
+        "miasto": "Włodowice",
+        "lat": 50.5520931,
+        "lon": 19.4504273
+    },
+    {
+        "miasto": "Jawornik Polski",
+        "lat": 49.8886553,
+        "lon": 22.2837088
+    },
+    {
+        "miasto": "Krynica Morska",
+        "lat": 54.3894389,
+        "lon": 19.5350682
+    },
+    {
+        "miasto": "Bodzanów",
+        "lat": 52.5008478,
+        "lon": 20.0299052
+    },
+    {
+        "miasto": "Bobrowniki",
+        "lat": 52.7792249,
+        "lon": 18.9545437
+    },
+    {
+        "miasto": "Stopnica",
+        "lat": 50.4382587,
+        "lon": 20.9385676
+    },
+    {
+        "miasto": "Osieck",
+        "lat": 51.9662,
+        "lon": 21.41875
+    },
+    {
+        "miasto": "Żarnów",
+        "lat": 51.2479931,
+        "lon": 20.1720504
+    },
+    {
+        "miasto": "Bogoria",
+        "lat": 50.6519146,
+        "lon": 21.2601913
+    },
+    {
+        "miasto": "Przyrów",
+        "lat": 50.8051422,
+        "lon": 19.5254207
+    },
+    {
+        "miasto": "Białaczów",
+        "lat": 51.298466,
+        "lon": 20.2949544
+    },
+    {
+        "miasto": "Miasteczko Krajeńskie",
+        "lat": 53.0976927,
+        "lon": 17.0072985
+    },
+    {
+        "miasto": "Nowe Warpno",
+        "lat": 53.7252503,
+        "lon": 14.2810705
+    },
+    {
+        "miasto": "Kleszczele",
+        "lat": 52.574173,
+        "lon": 23.3254851
+    },
+    {
+        "miasto": "Pacanów",
+        "lat": 50.3999656,
+        "lon": 21.0409852
+    },
+    {
+        "miasto": "Grabów",
+        "lat": 52.12736,
+        "lon": 19.00855
+    },
+    {
+        "miasto": "Sobków",
+        "lat": 50.6987193,
+        "lon": 20.4543922
+    },
+    {
+        "miasto": "Odrzywół",
+        "lat": 51.5193078,
+        "lon": 20.555818
+    },
+    {
+        "miasto": "Bircza",
+        "lat": 49.691222,
+        "lon": 22.4804308
+    },
+    {
+        "miasto": "Czerwińsk nad Wisłą",
+        "lat": 52.3940182,
+        "lon": 20.3123715
+    },
+    {
+        "miasto": "Wąwolnica",
+        "lat": 51.2935314,
+        "lon": 22.1465024
+    },
+    {
+        "miasto": "Magnuszew",
+        "lat": 51.7624237,
+        "lon": 21.3828034
+    },
+    {
+        "miasto": "Suraż",
+        "lat": 52.9491665,
+        "lon": 22.9563836
+    },
+    {
+        "miasto": "Dąbrowice",
+        "lat": 52.3156388,
+        "lon": 19.08451
+    },
+    {
+        "miasto": "Szydłów",
+        "lat": 50.5907684,
+        "lon": 21.0045698
+    },
+    {
+        "miasto": "Wodzisław",
+        "lat": 50.5211403,
+        "lon": 20.1909163
+    },
+    {
+        "miasto": "Sienno",
+        "lat": 51.08498,
+        "lon": 21.4734506
+    },
+    {
+        "miasto": "Parzęczew",
+        "lat": 51.94893,
+        "lon": 19.20716
+    },
+    {
+        "miasto": "Solec nad Wisłą",
+        "lat": 51.1349963,
+        "lon": 21.765376
+    },
+    {
+        "miasto": "Przytyk",
+        "lat": 51.4668994,
+        "lon": 20.9055732
+    },
+    {
+        "miasto": "Jadów",
+        "lat": 52.4783475,
+        "lon": 21.6326228
+    },
+    {
+        "miasto": "Nowy Korczyn",
+        "lat": 50.2994316,
+        "lon": 20.8090569
+    },
+    {
+        "miasto": "Bolimów",
+        "lat": 52.0762415,
+        "lon": 20.163478
+    },
+    {
+        "miasto": "Goraj",
+        "lat": 50.7212294,
+        "lon": 22.6682146
+    },
+    {
+        "miasto": "Bolesławiec",
+        "lat": 51.2630333,
+        "lon": 15.5651049
+    },
+    {
+        "miasto": "Wyśmierzyce",
+        "lat": 51.6251076,
+        "lon": 20.8119331
+    },
+    {
+        "miasto": "Książ Wielki",
+        "lat": 50.4429446,
+        "lon": 20.1399453
+    },
+    {
+        "miasto": "Brody",
+        "lat": 51.7867086,
+        "lon": 14.7743044
+    },
+    {
+        "miasto": "Głowaczów",
+        "lat": 51.6231797,
+        "lon": 21.3177054
+    },
+    {
+        "miasto": "Działoszyce",
+        "lat": 50.3654682,
+        "lon": 20.3521471
+    },
+    {
+        "miasto": "Turobin",
+        "lat": 50.8218458,
+        "lon": 22.7448995
+    },
+    {
+        "miasto": "Kiernozia",
+        "lat": 52.2687653,
+        "lon": 19.8710998
+    },
+    {
+        "miasto": "Dubiecko",
+        "lat": 49.8253187,
+        "lon": 22.3916222
+    },
+    {
+        "miasto": "Józefów nad Wisłą",
+        "lat": 51.0408518,
+        "lon": 21.8296779
+    },
+    {
+        "miasto": "Gielniów",
+        "lat": 51.3997224,
+        "lon": 20.4762225
+    },
+    {
+        "miasto": "Koszyce",
+        "lat": 50.1669806,
+        "lon": 20.5756459
+    },
+    {
+        "miasto": "Inowłódz",
+        "lat": 51.5236969,
+        "lon": 20.2228852
+    },
+    {
+        "miasto": "Ciepielów",
+        "lat": 51.2482289,
+        "lon": 21.5741193
+    },
+    {
+        "miasto": "Wiślica",
+        "lat": 50.3484831,
+        "lon": 20.6745381
+    },
+    {
+        "miasto": "Kazanów",
+        "lat": 51.2750127,
+        "lon": 21.4676696
+    },
+    {
+        "miasto": "Opatowiec",
+        "lat": 50.2425871,
+        "lon": 20.7237798
+    }
+]
