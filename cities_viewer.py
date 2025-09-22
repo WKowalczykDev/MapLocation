@@ -14,7 +14,7 @@ from constants import A2_width, A2_height, w_placeholder, h_placeholder
 with open("cities_data.json", "r", encoding="utf-8") as f:
     miasta = json.load(f)
 
-miasta = miasta[:20]
+miasta = miasta[:10]
 
 
 # --- GeoDataFrame w WGS84 (EPSG:4326) ---
@@ -87,10 +87,12 @@ ax.imshow(
 )
 
 #tutaj stworze funkcje ktora bedzie szukala miejsce na wszystkie pasujace
-findPlaceholderPlaces(end_gdf_mm.geometry)
+finalPlaces = findPlaceholderPlaces(end_gdf_mm.geometry)
+print("jestesmy tu", finalPlaces)
+xs = [p.x for p in finalPlaces]
+ys = [p.y for p in finalPlaces]
 
-# zmiana rozmieszczenia punktów, tak żeby znajdowały się na mapie w milimetrach
-for x, y, label in zip(end_gdf_mm.geometry.x, end_gdf_mm.geometry.y, gdf["miasto"]):
+for x, y, label in zip(xs, ys, gdf["miasto"]):
     ax.scatter(x, y, color="blue", s=10, zorder=10)
     rect = Rectangle(
         (x-w_placeholder/2, y-h_placeholder/2),
