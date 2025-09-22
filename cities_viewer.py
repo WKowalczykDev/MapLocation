@@ -14,7 +14,7 @@ from constants import A2_width, A2_height, w_placeholder, h_placeholder
 with open("cities_data.json", "r", encoding="utf-8") as f:
     miasta = json.load(f)
 
-miasta = miasta[:10]
+miasta = miasta[:20]
 
 
 # --- GeoDataFrame w WGS84 (EPSG:4326) ---
