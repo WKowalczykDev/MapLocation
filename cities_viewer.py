@@ -1,9 +1,11 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import contextily as ctx
-from matplotlib import transforms
+from matplotlib import transforms, image as mpimg
 from shapely.geometry import Point
 from matplotlib.patches import Rectangle
+
+from shapely.geometry import box
 
 # --- DANE: wygodniej jako lista słowników z nazwą i lat/lon ---
 import json
@@ -26,8 +28,12 @@ gdf = gpd.GeoDataFrame(
                                 [m["lat"] for m in miasta]),
     crs="EPSG:4326"
 )
+
+minx, maxx = 14.0, 24.2
+miny, maxy = 48.9, 55.1
+
 max_min_gdf = gpd.GeoDataFrame(
-    geometry=gpd.points_from_xy([13.0, 24.2],[48.9, 55.1])
+    geometry=gpd.points_from_xy([minx, maxx],[miny, maxy])
     ,crs="EPSG:4326"
 )
 
@@ -79,6 +85,21 @@ height_dots = scale_mm_to_DPI(mm_h,DPI)
 print(width_dots, height_dots)
 
 
+tlo_img = mpimg.imread("./map/wyciety_obraz.png")  # podaj ścieżkę do obrazu
+
+wysokosc, szerokosc = tlo_img.shape[:2]  # [:2] bo może być kanał koloru
+
+print("Szerokość:", szerokosc)
+print("Wysokość:", wysokosc)
+ratio = wysokosc/szerokosc
+
+ax.imshow(
+    tlo_img,
+    extent=[0, A3_width, 0, A3_width*ratio],  # rozciągnięcie obrazu na całą powierzchnię figury w mm
+    aspect='auto',
+    zorder=0  # najniższy z-order, tło
+)
+
 # zmiana rozmieszczenia punktów, tak żeby znajdowały się na mapie w milimetrach
 for x, y, label in zip(end_gdf_mm.geometry.x, end_gdf_mm.geometry.y, gdf["miasto"]):
     ax.scatter(x, y, color="blue", s=10, zorder=10)
@@ -92,7 +113,7 @@ for x, y, label in zip(end_gdf_mm.geometry.x, end_gdf_mm.geometry.y, gdf["miasto
         zorder=7
     )
     ax.add_patch(rect)
-    ax.text(x, y + mm_h + 5, label,
+    ax.text(x, y + 5, label,
             ha="center", va="bottom", fontsize=8, color="red")
 
 ax.set_xlim(0, A3_width)
@@ -105,3 +126,4 @@ fig.savefig("rysunek.png", dpi=DPI, bbox_inches="tight")
 
 # zapis do pliku PDF
 fig.savefig("rysunek.pdf", bbox_inches="tight")
+plt.show()

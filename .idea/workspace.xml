@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67e28f9b-503d-408f-8d00-af0ec98f68b2" name="Changes" comment="iml changes">
-      <change afterPath="$PROJECT_DIR$/functions/map_scale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/mm_to_inch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/scale_mm_to_DPI.py" afterDir="false" />
+    <list default="true" id="67e28f9b-503d-408f-8d00-af0ec98f68b2" name="Changes" comment="changed system from lat long to mm">
+      <change afterPath="$PROJECT_DIR$/map/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/map_cut.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cities_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/cities_viewer.py" afterDir="false" />
     </list>
@@ -46,24 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.cities_scrapper.executor": "Run",
-    "Python.cities_viewer.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.cities_scrapper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cities_viewer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_cut.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Wojtek\PycharmProjects\MapLocation\results" />
@@ -87,7 +88,8 @@
       <option name="presentableId" value="Default" />
       <updated>1757074384845</updated>
       <workItem from="1757074396577" duration="8995000" />
-      <workItem from="1758439991417" duration="15080000" />
+      <workItem from="1758439991417" duration="18280000" />
+      <workItem from="1758527066580" duration="1824000" />
     </task>
     <task id="LOCAL-00001" summary="added scrapper and map shower">
       <option name="closed" value="true" />
@@ -105,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758440833971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed system from lat long to mm">
+      <option name="closed" value="true" />
+      <created>1758523692553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758523692553</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,11 +124,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added scrapper and map shower" />
     <MESSAGE value="iml changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="iml changes" />
+    <MESSAGE value="changed system from lat long to mm" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed system from lat long to mm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MapLocation$map_cut.coverage" NAME="map_cut Coverage Results" MODIFIED="1758527556303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/map" />
     <SUITE FILE_PATH="coverage/MapLocation$main.coverage" NAME="main Coverage Results" MODIFIED="1757081541096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MapLocation$cities_viewer.coverage" NAME="cities_viewer Coverage Results" MODIFIED="1758523555841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MapLocation$cities_viewer.coverage" NAME="cities_viewer Coverage Results" MODIFIED="1758528486639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MapLocation$map.coverage" NAME="map Coverage Results" MODIFIED="1758526264949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/map" />
     <SUITE FILE_PATH="coverage/MapLocation$cities_scrapper.coverage" NAME="cities_scrapper Coverage Results" MODIFIED="1757082433996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
