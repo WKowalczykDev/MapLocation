@@ -3,11 +3,13 @@ import matplotlib.pyplot as plt
 from matplotlib import transforms, image as mpimg
 from matplotlib.patches import Rectangle
 import json
+
+from functions.findPlaceholderPlaces import findPlaceholderPlaces
 from functions.map_scale import map_scale
 from functions.mm_to_inch import mm_to_inch
 from functions.scale_mm_to_DPI import scale_mm_to_DPI
 
-from constants import A2_width, A2_height
+from constants import A2_width, A2_height, w_placeholder, h_placeholder
 
 with open("cities_data.json", "r", encoding="utf-8") as f:
     miasta = json.load(f)
@@ -68,18 +70,13 @@ end_gdf_mm = gpd.GeoDataFrame(
 DPI = 300  # rozdzielczość druku
 fig, ax = plt.subplots(figsize=A2_PORTRAIT, dpi=DPI)
 
-mm_w, mm_h = 30,40  # szerokość i wysokość w mm
-width_dots = scale_mm_to_DPI(mm_w,DPI)
-height_dots = scale_mm_to_DPI(mm_h,DPI)
-print(width_dots, height_dots)
+width_dots = scale_mm_to_DPI(w_placeholder,DPI)
+height_dots = scale_mm_to_DPI(h_placeholder,DPI)
 
 
 tlo_img = mpimg.imread("./map/wyciety_obraz.png")  # podaj ścieżkę do obrazu
 
 wysokosc, szerokosc = tlo_img.shape[:2]  # [:2] bo może być kanał koloru
-
-print("Szerokość:", szerokosc)
-print("Wysokość:", wysokosc)
 ratio = wysokosc/szerokosc
 
 ax.imshow(
@@ -90,14 +87,15 @@ ax.imshow(
 )
 
 #tutaj stworze funkcje ktora bedzie szukala miejsce na wszystkie pasujace
+findPlaceholderPlaces(end_gdf_mm.geometry)
 
 # zmiana rozmieszczenia punktów, tak żeby znajdowały się na mapie w milimetrach
 for x, y, label in zip(end_gdf_mm.geometry.x, end_gdf_mm.geometry.y, gdf["miasto"]):
     ax.scatter(x, y, color="blue", s=10, zorder=10)
     rect = Rectangle(
-        (x-mm_w/2, y-mm_h/2),
-        mm_w,      # szerokość w mm
-        mm_h,      # wysokość w mm
+        (x-w_placeholder/2, y-h_placeholder/2),
+        w_placeholder,      # szerokość w mm
+        h_placeholder,      # wysokość w mm
         linewidth=1,
         edgecolor="red",
         facecolor="none",
