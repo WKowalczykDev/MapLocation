@@ -1,17 +1,22 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import contextily as ctx
+from matplotlib import transforms
 from shapely.geometry import Point
 from matplotlib.patches import Rectangle
 
 # --- DANE: wygodniej jako lista słowników z nazwą i lat/lon ---
-miasta = [
-    {"miasto": "Warszawa",        "lat": 52.2297, "lon": 21.0122},
-    {"miasto": "Kraków",          "lat": 50.0647, "lon": 19.9450},
-    {"miasto": "Gdańsk",          "lat": 54.3520, "lon": 18.6466},
-    {"miasto": "Szczecin",        "lat": 53.4285, "lon": 14.5528},
-    {"miasto": "Ustrzyki Dolne",  "lat": 49.4300, "lon": 22.5900},
-]
+import json
+
+from functions.map_scale import map_scale
+from functions.mm_to_inch import mm_to_inch
+from functions.scale_mm_to_DPI import scale_mm_to_DPI
+
+with open("cities_data.json", "r", encoding="utf-8") as f:
+    miasta = json.load(f)
+
+print(miasta[:50])
+miasta = miasta[:20]
 
 
 # --- GeoDataFrame w WGS84 (EPSG:4326) ---
@@ -21,76 +26,82 @@ gdf = gpd.GeoDataFrame(
                                 [m["lat"] for m in miasta]),
     crs="EPSG:4326"
 )
+max_min_gdf = gpd.GeoDataFrame(
+    geometry=gpd.points_from_xy([13.0, 24.2],[48.9, 55.1])
+    ,crs="EPSG:4326"
+)
+
 
 # --- Rzutowanie do Web Mercator (metry) ---
 gdf = gdf.to_crs(epsg=3857)
+print(gdf)
+max_min_gdf = max_min_gdf.to_crs(epsg=3857)
+print(max_min_gdf.geometry.x)
 
-# --- USTAWIENIA WYJŚCIA A3 ---
-# A3: 297 x 420 mm → w calach (1 cal = 25.4 mm)
-A3_PORTRAIT = (11.69, 16.54)   # (szerokość, wysokość) w calach
-A3_LANDSCAPE = (16.54, 11.69)
+from shapely.geometry import Point
+
+dx = max_min_gdf.geometry.x[0]
+dy = max_min_gdf.geometry.y[0]
+
+# zmiana na rzutowanie względne - względem określonego w max_min_gdf w metrach
+end_gdf_m = gpd.GeoDataFrame(
+    geometry=[Point(x - dx, y - dy) for x, y in zip(gdf.geometry.x, gdf.geometry.y)],
+    crs="EPSG:3857"
+)
+print(end_gdf_m)
+
+
+# szerokość i wysokość w metrach
+end_width = max_min_gdf.geometry.x[1] - max_min_gdf.geometry.x[0]
+end_height = max_min_gdf.geometry.y[1] - max_min_gdf.geometry.y[0]
+print(end_width, end_height)
+
+# rozmiar A3
+A3_width, A3_height = 420,594 # w mm
+A3_PORTRAIT = (mm_to_inch(A3_width), mm_to_inch(A3_height))   # (szerokość, wysokość) w calach
+A3_LANDSCAPE = (mm_to_inch(A3_height), mm_to_inch(A3_width))
+
+# tworzenie skali z metrów na mm
+scale_mm = map_scale(end_width, A3_width)
+print(scale_mm)
+end_gdf_mm = gpd.GeoDataFrame(
+    geometry=[Point(p.x*1000 / scale_mm, p.y*1000 / scale_mm) for p in end_gdf_m.geometry],
+    crs=end_gdf_m.crs
+)
+print(end_gdf_mm)
 
 DPI = 300  # rozdzielczość druku
-fig, ax = plt.subplots(figsize=A3_LANDSCAPE, dpi=DPI)
+fig, ax = plt.subplots(figsize=A3_PORTRAIT, dpi=DPI)
 
-# --- RYSOWANIE PUNKTÓW (opcjonalnie) ---
-# markersize jest w punktach^2 (większa liczba = większa kropka)
-gdf.plot(ax=ax, color="red", markersize=60, zorder=6)
+mm_w, mm_h = 30,40  # szerokość i wysokość w mm
+width_dots = scale_mm_to_DPI(mm_w,DPI)
+height_dots = scale_mm_to_DPI(mm_h,DPI)
+print(width_dots, height_dots)
 
-# --- PROSTOKĄTY-PLACEHOLDERY WOKÓŁ PUNKTÓW ---
-# EPSG:3857 → jednostki ~metry. Tu np. 40 km x 30 km wokół miasta.
-half_width_m  = 20000   # połowa szerokości  (20 km)
-half_height_m = 15000   # połowa wysokości   (15 km)
 
-for x, y, label in zip(gdf.geometry.x, gdf.geometry.y, gdf["miasto"]):
-    # lewy-dolny róg + wymiary
+# zmiana rozmieszczenia punktów, tak żeby znajdowały się na mapie w milimetrach
+for x, y, label in zip(end_gdf_mm.geometry.x, end_gdf_mm.geometry.y, gdf["miasto"]):
+    ax.scatter(x, y, color="blue", s=10, zorder=10)
     rect = Rectangle(
-        (x - half_width_m, y - half_height_m),
-        2 * half_width_m,
-        2 * half_height_m,
-        linewidth=2,
+        (x-mm_w/2, y-mm_h/2),
+        mm_w,      # szerokość w mm
+        mm_h,      # wysokość w mm
+        linewidth=1,
         edgecolor="red",
         facecolor="none",
         zorder=7
     )
     ax.add_patch(rect)
-    # podpis nad prostokątem
-    ax.text(x, y + half_height_m + 5000, label, ha="center", va="bottom",
-            fontsize=12, color="red", zorder=8)
+    ax.text(x, y + mm_h + 5, label,
+            ha="center", va="bottom", fontsize=8, color="red")
 
-# --- TŁO Z INTERNETU ---
-# Podajemy crs, a zoom dobieramy do skali (większy = więcej detalu).
-# Dla mapy PL typowo 6–8; dla miasta 12–15. Spróbuj 7.
-import contextily as ctx
+ax.set_xlim(0, A3_width)
+ax.set_ylim(0, A3_height)
+ax.axis('off')
 
-from pyproj import Transformer
 
-# transformacja z lat/lon (EPSG:4326) -> Web Mercator (EPSG:3857)
-transformer = Transformer.from_crs("EPSG:4326", "EPSG:3857", always_xy=True)
+# zapis do pliku PNG
+fig.savefig("rysunek.png", dpi=DPI, bbox_inches="tight")
 
-# granice PL w stopniach (mniej więcej)
-lon_min, lon_max = 13.0, 24.2
-lat_min, lat_max = 48.9, 55.1
-
-minx, miny = transformer.transform(lon_min, lat_min)
-maxx, maxy = transformer.transform(lon_max, lat_max)
-
-# # pobranie kafelków dla granic Polski
-# img, ext = ctx.bounds2img(minx, miny, maxx, maxy,
-#                           zoom=7,
-#                           source=ctx.providers.OpenStreetMap.Mapnik)
-#
-# ax.imshow(img, extent=ext, interpolation='bilinear')
-ax.set_xlim(minx, maxx)
-ax.set_ylim(miny, maxy)
-#
-#
-# Estetyka
-ax.set_axis_off()
-
-# --- ZAPIS A3 ---
-# PNG do druku
-plt.savefig("mapa_A3_300dpi.png", dpi=DPI, bbox_inches="tight")
-# PDF (wektorowy kontur + rastrowe kafelki; dobry do druku)
-plt.savefig("mapa_A3_300dpi.pdf", bbox_inches="tight")
-plt.close(fig)
+# zapis do pliku PDF
+fig.savefig("rysunek.pdf", bbox_inches="tight")
